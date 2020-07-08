@@ -41,7 +41,7 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://176.10.117.3:5000/play/a02v?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1662.m3u8?checkedby:iptvcat.com
+http://176.10.117.3:5000/play/a02w?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png" group-title="France",FR | France 4
 http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1661.m3u8?checkedby:iptvcat.com
