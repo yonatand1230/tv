@@ -1,0 +1,116 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+
+#EXTINF:0 tvg-country="IL" tvg-id="11" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg" group-title="Israel",IL | Ch 11 Kan
+plugin://plugin.video.idanplus/?mode=5&url=ch_11
+
+#EXTINF:0 tvg-country="IL" tvg-id="11" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg" group-title="Israel",IL | Ch 11 Kan (Backup)
+plugin://plugin.video.idanplus/?mode=5&url=ch_11b
+
+#EXTINF:0 tvg-country="IL" tvg-id="" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12 News
+plugin://plugin.video.idanplus/?mode=5&url=ch_n12
+
+#EXTINF:0 tvg-country="IL" tvg-id="12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg" group-title="Israel",IL | Ch 12 Keshet
+plugin://plugin.video.idanplus/?mode=5&url=ch_12
+
+#EXTINF:0 tvg-country="IL" tvg-id="13" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png" group-title="Israel",IL | Ch 13 Reshet
+plugin://plugin.video.idanplus/?mode=5&url=ch_13
+
+#EXTINF:0 tvg-country="IL" tvg-id="13" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" group-title="Israel",IL | Ch 13 Reshet (Backup)
+plugin://plugin.video.idanplus/?mode=5&url=ch_13b
+
+#EXTINF:0 tvg-country="IL" tvg-id="20" tvg-logo="http://moty125.myftp.org/Images/TVLogos/logo20.jpg" group-title="Israel",IL | Ch 20 Moreshet
+plugin://plugin.video.idanplus/?mode=5&url=ch_20
+
+#EXTINF:0 tvg-country="IL" tvg-id="21" tvg-logo="https://i.imgur.com/9AggY4H.png" group-title="Israel",IL | Ch 21 Shopping
+plugin://plugin.video.idanplus/?mode=5&url=ch_21
+
+#EXTINF:0 tvg-country="IL" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Israel",IL | Ch 23 Chinuchit
+plugin://plugin.video.idanplus/?mode=5&url=ch_23
+
+#EXTINF:0 tvg-country="IL" tvg-id="24" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png" group-title="Israel",ערוץ 24 החדש
+plugin://plugin.video.idanplus/?mode=5&url=ch_24
+
+#EXTINF:0 tvg-country="IL" tvg-logo="http://moty125.myftp.org/Images/TVLogos/hidabroot.jpg" group-title="Israel",IL | Ch 97 Hidabrut
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:0 tvg-country="IL" tvg-id="99" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Logo_knesset_channel.png" group-title="Israel",IL | Ch 99 Kneset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD
+http://176.10.117.3:5000/play/a02v?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1662.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png" group-title="France",FR | France 4
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1661.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1660.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
+http://77.109.171.36:8000/play/a06p?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 Francis
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="France",FR | BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="France",FR | BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/aHvW8pK.png" group-title="France",FR | A12 Televison
+https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France",FR | Antenne Réunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="France",FR | Alpe d’Huez TV
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="France",FR | BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="France",FR | CDirect
+http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="France",FR | D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-euronews-albania-8510.jpg" group-title="France",FR | EURONEWS
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/4060.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-euronews-albania-8510.jpg" group-title="France",FR | EURONEWS HD
+http://mu03.amzlive.net:8880/ANLM4323/93783128/28044?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="France",FR | Ere TV
+http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",FR | France Ô
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="France",FR | i24 NEWS HD
+http://mu03.amzlive.net:8880/ANLM4323/93783128/28031?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="France",FR | ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Morocco",MA | M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:iptvcat.com
