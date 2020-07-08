@@ -7,7 +7,7 @@ plugin://plugin.video.idanplus/?mode=5&url=ch_11
 #EXTINF:0 tvg-country="IL" tvg-id="11" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg" group-title="Israel",IL | Ch 11 Kan (Backup)
 plugin://plugin.video.idanplus/?mode=5&url=ch_11b
 
-#EXTINF:0 tvg-country="IL" tvg-id="" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12
+#EXTINF:0 tvg-country="IL" tvg-id="" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12 News
 plugin://plugin.video.idanplus/?mode=5&url=ch_n12
 
 #EXTINF:0 tvg-country="IL" tvg-id="12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg" group-title="Israel",IL | Ch 12 Keshet
