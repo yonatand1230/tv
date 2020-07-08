@@ -7,7 +7,7 @@ plugin://plugin.video.idanplus/?mode=5&url=ch_11
 #EXTINF:0 tvg-country="IL" tvg-id="11" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg" group-title="Israel",IL | Ch 11 Kan (Backup)
 plugin://plugin.video.idanplus/?mode=5&url=ch_11b
 
-#EXTINF:0 tvg-country="IL" tvg-id="" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12 News Channel
+#EXTINF:0 tvg-country="IL" tvg-id="" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12
 plugin://plugin.video.idanplus/?mode=5&url=ch_n12
 
 #EXTINF:0 tvg-country="IL" tvg-id="12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg" group-title="Israel",IL | Ch 12 Keshet
@@ -28,7 +28,7 @@ plugin://plugin.video.idanplus/?mode=5&url=ch_21
 #EXTINF:0 tvg-country="IL" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Israel",IL | Ch 23 Chinuchit
 plugin://plugin.video.idanplus/?mode=5&url=ch_23
 
-#EXTINF:0 tvg-country="IL" tvg-id="24" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png" group-title="Israel",ערוץ 24 החדש
+#EXTINF:0 tvg-country="IL" tvg-id="24" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/24telad.png" group-title="Israel",IL | Ch 24 New
 plugin://plugin.video.idanplus/?mode=5&url=ch_24
 
 #EXTINF:0 tvg-country="IL" tvg-logo="http://moty125.myftp.org/Images/TVLogos/hidabroot.jpg" group-title="Israel",IL | Ch 97 Hidabrut
