@@ -1,0 +1,102 @@
+#EXTM3U#EXTINF:-1 tvg-ID="" tvg-name="כאן 11" tvg-logo="http://moty125.myftp.org/Images/TVLogos/TV_Static.PNG" group-title="Moty_p's Portal -> TV ",כאן 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="רשת 13" tvg-logo="http://moty125.myftp.org/Images/TVLogos/1200px-Reshet13.png" group-title="Moty_p's Portal -> TV ",רשת 13
+https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13_500.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ערוץ 20" tvg-logo="http://moty125.myftp.org/Images/TVLogos/logo20.jpg" group-title="Moty_p's Portal -> TV ",ערוץ 20
+https://dvr.ch20-cdnwiz.com/hls/dvr_low/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="קשת 12" tvg-logo="http://moty125.myftp.org/Images/TVLogos/kesht.png" group-title="Moty_p's Portal -> TV ",קשת 12
+https://v.syncil.live/c/ch-12/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ערוץ הכנסת" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Logo_knesset_channel.png" group-title="Moty_p's Portal -> TV ",ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="הידברות" tvg-logo="http://moty125.myftp.org/Images/TVLogos/hidabroot.jpg" group-title="Moty_p's Portal -> TV ",הידברות
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ערוץ הקבלה לעם" tvg-logo="http://moty125.myftp.org/Images/TVLogos/unnamed.jpg" group-title="Moty_p's Portal -> TV ",ערוץ הקבלה לעם
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/chunklist_w699139702.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ערוץ 33" tvg-logo="http://moty125.myftp.org/Images/TVLogos/ch_33.png" group-title="Moty_p's Portal -> TV ",ערוץ 33
+https://62-90-90-57.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w1710835478_b1264000.m3u8?ttl=1536015597&cdn_token=78918095c972e7777c7993f15f924faf
+#EXTINF:-1 tvg-ID="" tvg-name="DREAM TV" tvg-logo="http://moty125.myftp.org/Images/TVLogos/dream_tv.png" group-title="Moty_p's Portal -> TV ",DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="WAU" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Partner_Logo_Wau-TV.png" group-title="Moty_p's Portal -> TV ",WAU
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="כאן חינוכית" tvg-logo="http://moty125.myftp.org/Images/TVLogos/acordeon9_img385228121.jpg" group-title="Moty_p's Portal -> TV ",כאן חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Virgin Radio TV" tvg-logo="http://moty125.myftp.org/Images/TVLogos/apps.10234.14494697983182838.825c6f12-efa3-44e3-8d96-14fd19e2d2c6.b77b8790-3a20-4407-8865-39937263670b.jpg" group-title="Moty_p's Portal -> TV ",Virgin Radio TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="m2o TV" tvg-logo="http://moty125.myftp.org/Images/TVLogos/m2oTV.png" group-title="Moty_p's Portal -> TV ",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ibiza Global TV" tvg-logo="http://moty125.myftp.org/Images/TVLogos/logo-global-radio-tv.jpg" group-title="Moty_p's Portal -> TV ",Ibiza Global TV
+ http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ערוץ החדשות OnLine" tvg-logo="http://moty125.myftp.org/Images/TVLogos/246x0w.jpg" group-title="Moty_p's Portal -> TV ",ערוץ החדשות OnLine
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CBN News" tvg-logo="http://moty125.myftp.org/Images/TVLogos/cbn-news-logo.jpg" group-title="Moty_p's Portal -> TV ",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
+#EXTINF:-1 tvg-ID="" tvg-name="Stars TV" tvg-logo="http://moty125.myftp.org/Images/TVLogos/StarsTV.png" group-title="Moty_p's Portal -> TV ",Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="הגשש החיוור" tvg-logo="http://moty125.myftp.org/Images/TVLogos/maxresdefault.jpg" group-title="Moty_p's Portal -> TV ",הגשש החיוור
+
+#EXTINF:-1 tvg-ID="" tvg-name="מ ק 22" tvg-logo="http://moty125.myftp.org/Images/TVLogos/flx_1730952_2202148_03_3.jpg" group-title="Moty_p's Portal -> TV ",מ ק 22
+
+#EXTINF:-1 tvg-ID="" tvg-name=" טירונות" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Tironoot.jpg" group-title="Moty_p's Portal -> TV ", טירונות
+
+#EXTINF:-1 tvg-ID="" tvg-name="שמש" tvg-logo="http://moty125.myftp.org/Images/TVLogos/20110801112654!Shemeshtv.png" group-title="Moty_p's Portal -> TV ",שמש
+
+#EXTINF:-1 tvg-ID="" tvg-name="היחידה" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Ha_Yehida.jpg" group-title="Moty_p's Portal -> TV ",היחידה
+
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic People" tvg-logo="http://moty125.myftp.org/Images/TVLogos/1000px-Nat_Geo_HD_Logo.svg.png" group-title="Moty_p's Portal -> TV ",National Geographic People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="National Geo Wild HD" tvg-logo="http://moty125.myftp.org/Images/TVLogos/NAT_GEO_WILD_HD.png" group-title="Moty_p's Portal -> TV ",National Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="מוסיקה 24" tvg-logo="http://moty125.myftp.org/Images/TVLogos/108999-46.jpg" group-title="Moty_p's Portal -> TV ",מוסיקה 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CAFE HD" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Zee_Café_HD_2017.jpg" group-title="Moty_p's Portal -> TV ",ZEE CAFE HD
+https://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE ANMOL" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Zee-Anmol-Logo.jpg" group-title="Moty_p's Portal -> TV ",ZEE ANMOL
+ https://z5ams.akamaized.net/zeeanmol/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA HD" tvg-logo="http://moty125.myftp.org/Images/TVLogos/kisspng-zee-cinema-zee-tv-zee-entertainment-enterprises-te-channel-5ace278298dc71.1845478315234599706261.jpg" group-title="Moty_p's Portal -> TV ",ZEE CINEMA HD
+https://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE AFLAM" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Zee_Salaam_2011.png" group-title="Moty_p's Portal -> TV ",ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Tropical" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Trace_Tropical.png" group-title="Moty_p's Portal -> TV ",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MIAO MI" tvg-logo="http://moty125.myftp.org/Images/TVLogos/miao-mi-logo-color.png" group-title="Moty_p's Portal -> TV ",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Africa" tvg-logo="http://moty125.myftp.org/Images/TVLogos/766px-Trace_Africa_logo_2011.png" group-title="Moty_p's Portal -> TV ",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Toca" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Trace_Toca.png" group-title="Moty_p's Portal -> TV ",Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Naija" tvg-logo="http://moty125.myftp.org/Images/TVLogos/logo_naija1.png" group-title="Moty_p's Portal -> TV ",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Mziki" tvg-logo="http://moty125.myftp.org/Images/TVLogos/DStv_Logo_TRACEMziki_lrg-696x385-600x331.jpg" group-title="Moty_p's Portal -> TV ",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Kitoko" tvg-logo="http://moty125.myftp.org/Images/TVLogos/TRACE-logo-kitoko-01-1.png" group-title="Moty_p's Portal -> TV ",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Music Choice HD" tvg-logo="http://moty125.myftp.org/Images/TVLogos/tumblr_static_188xtv2lwecgoo08s8gsw084s.png" group-title="Moty_p's Portal -> TV ",Music Choice HD
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="כן המפקדת" tvg-logo="http://moty125.myftp.org/Images/TVLogos/YesSir.jpg" group-title="Moty_p's Portal -> TV ",כן המפקדת
+
+#EXTINF:-1 tvg-ID="" tvg-name="DeeJay TV" tvg-logo="http://moty125.myftp.org/Images/TVLogos/603px-Logo_DeeJay.png" group-title="Moty_p's Portal -> TV ",DeeJay TV
+ https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10
+#EXTINF:-1 tvg-ID="" tvg-name="A State Of Trance Radio 24/7" tvg-logo="http://moty125.myftp.org/Images/TVLogos/asot.jpg" group-title="Moty_p's Portal -> TV ",A State Of Trance Radio 24/7
+https://www.youtube.com/watch?v=zDuadNBVDho
+#EXTINF:-1 tvg-ID="" tvg-name="Uplifting Trance Radio · 24/7 Live Stream" tvg-logo="http://moty125.myftp.org/Images/TVLogos/esdsd.jpg" group-title="Moty_p's Portal -> TV ",Uplifting Trance Radio · 24/7 Live Stream
+https://www.youtube.com/watch?v=5u15qvfxLNM
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1" tvg-logo="http://moty125.myftp.org/Images/TVLogos/mbc_ae_group.png" group-title="Moty_p's Portal -> TV ",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2" tvg-logo="http://moty125.myftp.org/Images/TVLogos/yhsefdgtx2ea2vcwm66g.jpg" group-title="Moty_p's Portal -> TV ",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3" tvg-logo="http://moty125.myftp.org/Images/TVLogos/2-63.jpg" group-title="Moty_p's Portal -> TV ",MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4" tvg-logo="http://moty125.myftp.org/Images/TVLogos/MBC_4_logo.png" group-title="Moty_p's Portal -> TV ",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Bollywood" tvg-logo="http://moty125.myftp.org/Images/TVLogos/MBCBollywoodTV.png" group-title="Moty_p's Portal -> TV ",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Action" tvg-logo="http://moty125.myftp.org/Images/TVLogos/MBCAction.png" group-title="Moty_p's Portal -> TV ",MBC Action
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC drama HD" tvg-logo="http://moty125.myftp.org/Images/TVLogos/MBCDrama.png" group-title="Moty_p's Portal -> TV ",MBC drama HD
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC TOP" tvg-logo="http://moty125.myftp.org/Images/TVLogos/musictop.png" group-title="Moty_p's Portal -> TV ",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV HD" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Red-Bull-TV-logo.png" group-title="Moty_p's Portal -> TV ",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ערוץ הקניות (21)" tvg-logo="http://moty125.myftp.org/Images/TVLogos/ch21.png" group-title="Moty_p's Portal -> TV ",ערוץ הקניות (21)
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8
