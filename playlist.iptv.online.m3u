@@ -1,0 +1,175 @@
+#EXTM3U catchup="flussonic" url-tvg="https://iptv.online/epg/epg.xml.gz"
+#EXTINF:0 tvg-name="Channel 12 IL", Channel 12 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/470/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Channel 13 IL", Channel 13 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/471/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-id="X9kanal-israel" tvg-name="Channel 9 IL", Channel 9 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/472/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Channel 11 IL", Channel 11 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/473/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Disney Jr IL", Disney Jr IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/474/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Disney IL", Disney IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/476/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Nick Jr IL", Nick Jr IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1501/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="hop IL", hop IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1502/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Home Plus IL", Home Plus IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1503/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="music 24 IL", music 24 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1505/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="ONE HD IL", ONE HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1506/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 HD IL", Sport 5 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1507/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Yes Israeli Cinema", Yes Israeli Cinema
+#EXTGRP:IL
+http://cz.iptv.monster/play/1509/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-id="Xyes-drama" tvg-name="Yes DRAMA HD IL", Yes DRAMA HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1510/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Yes DOCU HD IL", Yes DOCU HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1511/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-id="Xyes-comedy" tvg-name="Yes COMEDY HD IL", Yes COMEDY HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1512/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-id="Xyes-action" tvg-name="Yes ACTION HD IL", Yes ACTION HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1513/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="YES 5", YES 5
+#EXTGRP:IL
+http://cz.iptv.monster/play/1514/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-id="Xyes4" tvg-name="YES 4", YES 4
+#EXTGRP:IL
+http://cz.iptv.monster/play/1515/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-id="Xyes2" tvg-name="YES 2", YES 2
+#EXTGRP:IL
+http://cz.iptv.monster/play/1517/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="SPORT 2 HD IL", SPORT 2 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1521/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 HD IL", Sport 1 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1522/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="PLUS+ HD IL", PLUS+ HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1523/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Good Life IL", Good Life IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1524/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="FUN HD IL", FUN HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1525/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="DRAMA HD IL", DRAMA HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1526/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="ZOOM IL", ZOOM IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1528/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="ZONE HD IL", ZONE HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1529/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Travel Channel IL", Travel Channel IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1530/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Sport 5+ Live HD IL" tvg-rec="1" timeshift="1", Sport 5+ Live HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1531/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Nickelodeon IL", Nickelodeon IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1532/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Luli IL", Luli IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1534/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Logi IL", Logi IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1535/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Junior IL", Junior IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1536/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="HOT3 HD IL", HOT3 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1537/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Hop! Childhood IL", Hop! Childhood IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1538/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Channel 8 IL", Channel 8 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1541/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Baby IL", Baby IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1542/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="ACTION HD IL", ACTION HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1544/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="GOLD HD IL", GOLD HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1545/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Channel 1 HD IL", Channel 1 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1546/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Big Brother IL", Big Brother IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1549/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Ego Total IL", Ego Total IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1550/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Food Network IL", Food Network IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1551/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Health IL", Health IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1552/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Entertainment IL", Entertainment IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1553/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Kabala IL", Kabala IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1554/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Mikan IL", Mikan IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1555/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Viva+ IL", Viva+ IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1556/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Yaldut IL", Yaldut IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1559/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Bombay IL", Bombay IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1560/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Prime IL", Prime IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1561/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="i24 IL", i24 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1562/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="VIVA IL", VIVA IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1563/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 HD IL" tvg-rec="1" timeshift="1", Sport 3 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1565/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 HD IL" tvg-rec="1" timeshift="1", Sport 4 HD IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1566/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Yamtihoni IL", Yamtihoni IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1567/547B71713E5078F/video.m3u8
+#EXTINF:0 tvg-name="Sport 5 IL" tvg-rec="1" timeshift="1", Sport 5 IL
+#EXTGRP:IL
+http://cz.iptv.monster/play/1569/547B71713E5078F/video.m3u8
