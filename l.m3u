@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-name="Channel 12 IL", Channel 12 IL
 #EXTGRP:IL
 http://cz.iptv.monster/play/470/547B71713E5078F/video.m3u8
-#EXTINF:0 tvg-name="Channel 13 IL", Channel 13 IL
+#EXTINF:0 tvg-name="Channel 13", Channel 13 IL
 #EXTGRP:IL
 http://cz.iptv.monster/play/471/547B71713E5078F/video.m3u8
 #EXTINF:0 tvg-id="X9kanal-israel" tvg-name="Channel 9 IL", Channel 9 IL
