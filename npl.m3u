@@ -37,13 +37,13 @@ http://cz.iptv.monster/play/472/547B71713E5078F/mpegts
 #EXTINF:-1 ,Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
 
-#EXTINF:-1 ,Keshet 12
+#EXTINF:-1 ,Keshet 12 (External)
 https://v.syncil.live/c/ch-12/playlist.m3u8
 
 #EXTINF:-1 ,Reshet 13
-https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13_500.m3u8
+http://cz.iptv.monster/play/471/547B71713E5078F/video.m3u8
 
-#EXTINF:-1 ,Keshet 12 (Backup)
+#EXTINF:-1 ,Keshet 12 
 http://cz.iptv.monster/play/470/547B71713E5078F/mpegts
 
 #EXTINF:-1 ,Mikan
