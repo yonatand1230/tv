@@ -1,0 +1,190 @@
+#EXTM3U url-tvg="https://epg.best/188a1-ejsdta.xml.gz" x-tvg-url="https://epg.best/188a1-ejsdta.xml.gz"
+
+
+
+#EXTINF:-1 ,ONE1
+http://de.iptv.monster/play/1506/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,ONE2
+http://de.iptv.monster/play/1546/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 1
+http://de.iptv.monster/play/1522/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 2
+http://de.iptv.monster/play/1521/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 3
+http://de.iptv.monster/play/1565/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 4
+http://de.iptv.monster/play/1566/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 5
+http://de.iptv.monster/play/1569/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 5+ Live
+http://de.iptv.monster/play/1531/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,SPORT 5+ Stars
+http://de.iptv.monster/play/1507/D06FE89B4C2BBD4/mpegts
+
+
+
+#EXTINF:-1 ,Channel 9
+http://de.iptv.monster/play/472/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
+
+#EXTINF:-1 ,Keshet 12 (External)
+https://v.syncil.live/c/ch-12/playlist.m3u8
+
+#EXTINF:-1 ,Reshet 13
+http://de.iptv.monster/play/471/D06FE89B4C2BBD4/video.m3u8
+
+#EXTINF:-1 ,Keshet 12 
+http://de.iptv.monster/play/470/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Moreshet 20
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
+
+#EXTINF:-1 ,Mikan
+http://de.iptv.monster/play/1555/D06FE89B4C2BBD4/mpegts
+
+
+
+#EXTINF:-1 ,HOT 3
+http://de.iptv.monster/play/1537/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT | HBO
+http://de.iptv.monster/play/1523/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT Zone
+http://de.iptv.monster/play/1529/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT Bidur
+http://de.iptv.monster/play/1553/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT Cinema 1
+http://de.iptv.monster/play/1526/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT Cinema 2
+http://de.iptv.monster/play/1544/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT Cinema 3
+http://de.iptv.monster/play/1545/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,HOT Cinema 4
+http://de.iptv.monster/play/1525/D06FE89B4C2BBD4/mpegts
+
+
+
+#EXTINF:-1 ,YES MOVIES Comedy.
+http://de.iptv.monster/play/1515/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES Israeli.
+http://de.iptv.monster/play/1509/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES TV Drama.
+http://de.iptv.monster/play/1510/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES TV Comedy
+http://de.iptv.monster/play/1512/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES TV Action
+http://de.iptv.monster/play/1513/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES Docu
+http://de.iptv.monster/play/1511/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES 5
+http://de.iptv.monster/play/1514/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,YES 2
+http://de.iptv.monster/play/1517/D06FE89B4C2BBD4/mpegts
+
+
+
+#EXTINF:-1 ,Home Plus
+http://de.iptv.monster/play/1503/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Good Life
+http://de.iptv.monster/play/1524/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Travel Channel
+http://de.iptv.monster/play/1530/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,BollyWooD
+http://de.iptv.monster/play/1549/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,BollyShoW
+http://de.iptv.monster/play/1560/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Ego Total
+http://de.iptv.monster/play/1550/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Food Network
+http://de.iptv.monster/play/1551/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Health
+http://de.iptv.monster/play/1552/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Viva+
+http://de.iptv.monster/play/1556/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Viva
+http://de.iptv.monster/play/1563/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Prime
+http://de.iptv.monster/play/1561/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Yam Tichoni
+http://de.iptv.monster/play/1567/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Channel 98
+http://de.iptv.monster/play/1541/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Turkish Dramas+
+http://de.iptv.monster/play/1532/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,i24 Francis
+http://de.iptv.monster/play/1562/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,MTV
+http://de.iptv.monster/play/1505/D06FE89B4C2BBD4/mpegts
+
+
+
+#EXTINF:-1 ,Baby
+http://de.iptv.monster/play/1542/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Luli
+http://de.iptv.monster/play/1534/D06FE89B4C2BBD4/
+
+#EXTINF:-1 ,Junior
+http://de.iptv.monster/play/1536/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Hop
+http://de.iptv.monster/play/1502/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Hop Childhood
+http://de.iptv.monster/play/1538/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Yaldut
+http://de.iptv.monster/play/1559/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Disney Jr
+http://de.iptv.monster/play/474/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Nick Jr
+http://de.iptv.monster/play/1501/D06FE89B4C2BBD4/
+
+#EXTINF:-1 ,KidZ
+http://de.iptv.monster/play/1535/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,TeenNick
+http://de.iptv.monster/play/476/D06FE89B4C2BBD4/mpegts
+
+#EXTINF:-1 ,Zoom
+http://de.iptv.monster/play/1528/D06FE89B4C2BBD4/mpegts
