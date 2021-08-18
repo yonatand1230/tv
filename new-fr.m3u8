@@ -31,8 +31,11 @@ https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b124800
 #EXTINF:0 tvg-country="IL" tvg-id="99" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Logo_knesset_channel.png" group-title="Israel",IL | Ch 99 Kneset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD (UPDATED)
-https://mmsiptv.com/live/france2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 גיבוי
+http://smartntv.pro:25461/geansatexchanged3x/wHoUDRhR8O3KoQUx9DRhq/7037.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
 http://176.10.117.3:5000/play/a02w?checkedby:iptvcat.com
