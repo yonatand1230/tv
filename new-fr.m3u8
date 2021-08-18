@@ -34,20 +34,26 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 גיבוי
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source 2)
 http://smartntv.pro:25461/geansatexchanged3x/wHoUDRhR8O3KoQUx9DRhq/7037
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
-http://176.10.117.3:5000/play/a02w?checkedby:iptvcat.com
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png" group-title="France",FR | France 4
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1661.m3u8?checkedby:iptvcat.com
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/1660.m3u8?checkedby:iptvcat.com
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE
-https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8?checkedby:iptvcat.com
+https://s6.tntendirect.com/arte/live/playlist.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source 2)
+http://stream.tvtap.net:8081/live/fr-arte.stream/playlist.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source 3)
+http://smartntv.pro:25461/geansatexchanged3x/wHoUDRhR8O3KoQUx9DRhq/7035
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
 http://77.109.171.36:8000/play/a06p?checkedby:iptvcat.com
@@ -55,47 +61,14 @@ http://77.109.171.36:8000/play/a06p?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde (UPDATED)
 http://rv.flysat.live:80/307210013157/307210013157/83299?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 Francis
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="France",FR | BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="France",FR | BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/aHvW8pK.png" group-title="France",FR | A12 Televison
-https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="France",FR | Antenne Réunion
-http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="France",FR | Alpe d’Huez TV
-https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="France",FR | BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="France",FR | CDirect
-http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="France",FR | D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-euronews-albania-8510.jpg" group-title="France",FR | EURONEWS
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/4060.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-euronews-albania-8510.jpg" group-title="France",FR | EURONEWS HD
-http://mu03.amzlive.net:8880/ANLM4323/93783128/28044?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="France",FR | Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",FR | France Ô
-https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="France",FR | i24 NEWS HD
-http://mu03.amzlive.net:8880/ANLM4323/93783128/28031?checkedby:iptvcat.com
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="France",FR | ILTV
 https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:iptvcat.com
@@ -111,3 +84,4 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checked
 
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:iptvcat.com
+
