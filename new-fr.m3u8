@@ -62,7 +62,7 @@ http://77.109.171.36:8000/play/a06p?checkedby:iptvcat.com
 http://rv.flysat.live:80/307210013157/307210013157/83299?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+http://maghum-ott.com:80/fahim9555/280A30559862/60117
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="France",FR | BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
