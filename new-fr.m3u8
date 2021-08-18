@@ -58,8 +58,11 @@ http://smartntv.pro:25461/geansatexchanged3x/wHoUDRhR8O3KoQUx9DRhq/7035
 #EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
 http://maghum-ott.com:80/fahim9555/280A30559862/56865
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde (UPDATED)
-http://rv.flysat.live:80/307210013157/307210013157/83299?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe
+http://maghum-ott.com:80/fahim9555/280A30559862/56975
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Source 2)
+http://maghum-ott.com:80/fahim9555/280A30559862/56932
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24
 http://maghum-ott.com:80/fahim9555/280A30559862/60117
