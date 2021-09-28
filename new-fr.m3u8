@@ -7,17 +7,12 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunkli
 #EXTINF:0 tvg-country="IL" tvg-id="n12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12 News
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
+
 #EXTINF:0 tvg-country="IL" tvg-id="12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg" group-title="Israel",IL | Ch 12 Keshet
-https://v.syncil.live/c/ch-12/playlist.m3u8
+http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2329/index.m3u8
 
 #EXTINF:0 tvg-country="IL" tvg-id="13" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png" group-title="Israel",IL | Ch 13 Reshet
-https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13_500.m3u8
-
-#EXTINF:0 tvg-country="IL" tvg-id="20" tvg-logo="http://moty125.myftp.org/Images/TVLogos/logo20.jpg" group-title="Israel",IL | Ch 20 Moreshet
-https://dvr.ch20-cdnwiz.com/hls/dvr_low/index.m3u8
-
-#EXTINF:0 tvg-country="IL" tvg-id="21" tvg-logo="https://i.imgur.com/9AggY4H.png" group-title="Israel",IL | Ch 21 Shopping
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8
+http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2330/index.m3u8
 
 #EXTINF:0 tvg-country="IL" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Israel",IL | Ch 23 Chinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
@@ -28,50 +23,32 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="http://moty125.myftp.org/Images/TVLogos/hidabroot.jpg" group-title="Israel",IL | Ch 97 Hidabrut
 https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
 
-#EXTINF:0 tvg-country="IL" tvg-id="99" tvg-logo="http://moty125.myftp.org/Images/TVLogos/Logo_knesset_channel.png" group-title="Israel",IL | Ch 99 Kneset
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source 2)
-http://smartntv.pro:25461/geansatexchanged3x/wHoUDRhR8O3KoQUx9DRhq/7037
-
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png" group-title="France",FR | France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE
-https://s6.tntendirect.com/arte/live/playlist.m3u8
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source 2)
 http://stream.tvtap.net:8081/live/fr-arte.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source 3)
-http://smartntv.pro:25461/geansatexchanged3x/wHoUDRhR8O3KoQUx9DRhq/7035
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source 2)
+https://s6.tntendirect.com/arte/live/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
-http://maghum-ott.com:80/fahim9555/280A30559862/56865
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe
-http://maghum-ott.com:80/fahim9555/280A30559862/56975
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Source 2)
-http://maghum-ott.com:80/fahim9555/280A30559862/56932
+http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2386/index.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24
-http://maghum-ott.com:80/fahim9555/280A30559862/60117
+https://list.iptvcat.com/my_list/s/ad374e1d396847b828dc66ad3b5ebcd4.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe
+https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/index_1920x1080.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="France",FR | BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/fr-euronews-albania-8510.jpg" group-title="France",FR | EURONEWS HD
-https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="France",FR | ILTV
 https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:iptvcat.com
