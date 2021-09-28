@@ -7,13 +7,6 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunkli
 #EXTINF:0 tvg-country="IL" tvg-id="n12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12 News
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
-
-#EXTINF:0 tvg-country="IL" tvg-id="12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/keshet.jpg" group-title="Israel",IL | Ch 12 Keshet
-http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2329/index.m3u8
-
-#EXTINF:0 tvg-country="IL" tvg-id="13" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/13.png" group-title="Israel",IL | Ch 13 Reshet
-http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2330/index.m3u8
-
 #EXTINF:0 tvg-country="IL" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Israel",IL | Ch 23 Chinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
 
