@@ -38,7 +38,7 @@ http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2386/index.m3u8
 https://list.iptvcat.com/my_list/s/ad374e1d396847b828dc66ad3b5ebcd4.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe
-https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/index_1920x1080.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/07.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="France",FR | BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
