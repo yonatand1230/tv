@@ -1,11 +1,10 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
 
 #EXTINF:0 tvg-country="IL" tvg-id="11" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/kan.jpg" group-title="Israel",IL | Ch 11 Kan
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
 
 #EXTINF:0 tvg-country="IL" tvg-id="n12" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/n12.png" group-title="Israel",IL | Ch N12 News
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+https://list.iptvcat.com/my_list/s/97ac2f0a345a4e61709375ecc4d781fb.m3u8
 
 #EXTINF:0 tvg-country="IL" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" group-title="Israel",IL | Ch 23 Chinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/master.m3u8
@@ -27,9 +26,6 @@ http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source 2)
-https://s6.tntendirect.com/arte/live/playlist.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
 http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2386/index.m3u8
