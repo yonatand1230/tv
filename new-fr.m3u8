@@ -15,23 +15,36 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="http://moty125.myftp.org/Images/TVLogos/hidabroot.jpg" group-title="Israel",IL | Ch 97 Hidabrut
 https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
 
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 SD
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127319
+
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127275
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127320
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 HD
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127276
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127323
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5 HD
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127279
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE SD
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127324
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE HD
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127281
+
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
-http://1aa11502.edemist.com/iptv/X4YGLTYNG7KDZZ/2386/index.m3u8
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/126793
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24
-https://www.youtube.com/watch?v=jVYG_eH5UMU&ab_channel=FRANCE24
+http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/126792
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
