@@ -15,55 +15,54 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0 tvg-country="IL" tvg-logo="http://moty125.myftp.org/Images/TVLogos/hidabroot.jpg" group-title="Israel",IL | Ch 97 Hidabrut
 https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 SD
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127319
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/67499.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 HD
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127275
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/20483.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127320
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/67500.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 HD
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127276
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/20482.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127323
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/67502.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5 HD
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127279
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/20480.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE SD
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127324
-
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE HD
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/127281
-
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/1072.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="France",FR | i24 Francis
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/126793
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/9015.m3u8
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24
-http://www.sansat.net:25461/EnFSRNUyJQcbn8S/nHVF8QNCrqyAsaG/126792
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/7867.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Source-1)
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/23146.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Soucre-2)
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/3772.m3u8
+
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Soucre-3)
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b1/Bip_TV_logo.png" group-title="France",FR | BIP TV
-http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc (Source-1)
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/6520.m3u8
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="France",FR | ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc (Source-2)
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Morocco",MA | M24 TV
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc
-http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-1)
+http://livego.club:8080/live/5P4JfWAp2k/TmN4HuUaTq/5002.m3u8
 
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-2)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:iptvcat.com
 
