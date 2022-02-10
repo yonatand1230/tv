@@ -61,11 +61,14 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checke
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-1)
-https://list.iptvcat.com/my_list/s/81a2a11dcd388f0caeb58296265e7b6b.m3u8
+https://list.iptvcat.com/my_list/s/a8a72dfbd0a98f9a8d93e981303c9549.m3u8
 
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-2)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/d7f14134e0c36344b0bb6491ef57242e.m3u8
 
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-3)
-https://list.iptvcat.com/my_list/s/a8f149ca13de620bc81bbace5aacc9d1.m3u8
+https://list.iptvcat.com/my_list/s/a3597510b5a8db010de14a9343bc9c54.m3u8
+
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-4)
+https://list.iptvcat.com/my_list/s/790ee4f428c7b025436135c01d42e7f6.m3u8
 
