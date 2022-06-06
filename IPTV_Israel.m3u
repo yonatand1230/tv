@@ -1,0 +1,165 @@
+#EXTM3U url-tvg="http://103.71.173.240/xmltv.xml"
+
+#EXTINF:-1 tvg-id="channelone.il" , ONE 1 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38714
+
+#EXTINF:-1 tvg-id="channelone.il", ONE 1 [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103289
+
+#EXTINF:-1 tvg-id="channelone.il", ONE 1 [IPTV 3]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
+
+#EXTINF:-1 tvg-id="one2.il", ONE 2 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38713
+
+#EXTINF:-1 tvg-id="sport1.il", Sport 1 [Daddylive]
+https://netwrk.ru.com/cdn/premium140/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium140&test=true
+
+#EXTINF:-1 tvg-id="sport1.il", Sport 1 [IPTV 1]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38711
+
+#EXTINF:-1 tvg-id="sport1.il", Sport 1 [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38712
+
+#EXTINF:-1 tvg-id="sport2.il", Sport 2 [Daddylive]
+https://netwrk.ru.com/cdn/premium141/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium141&test=true
+
+#EXTINF:-1 tvg-id="sport2.il", Sport 2 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38710
+
+#EXTINF:-1 tvg-id="sport3.il", Sport 3 [Daddylive]
+https://netwrk.ru.com/cdn/premium142/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium142&test=true
+
+#EXTINF:-1 tvg-id="sport3.il", Sport 3 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38709
+
+#EXTINF:-1 tvg-id="sport3.il", Sport 3 [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38694
+
+
+#EXTINF:-1 tvg-id="sport4.il", Sport 4 [Daddylive]
+https://netwrk.ru.com/cdn/premium143/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium143&test=true
+
+#EXTINF: -1 tvg-id="sport4.il", Sport 4 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38708
+
+#EXTINF:-1 tvg-id="sport5.il", Sport 5 [Daddylive]
+https://netwrk.ru.com/cdn/premium144/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium144&test=true
+
+#EXTINF:-1 tvg-id="sport5.il", Sport 5 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38705
+
+#EXTINF:-1 tvg-id="sport5plus.il", Sport 5 Plus [Daddylive]
+https://netwrk.ru.com/cdn/premium145/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium145&test=true
+
+#EXTINF:-1 tvg-id="sport5plus.il", Sport 5 Plus [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38702
+
+#EXTINF:-1 tvg-id="5live.il", Sport 5 Live [Daddylive]
+https://netwrk.ru.com/cdn/premium146/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium146&test=true
+
+#EXTINF:-1 tvg-id="5live.il", Sport 5 Live [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38701
+
+#EXTINF:-1 tvg-id="5stars.il", Sport 5 Stars [Daddylive]
+https://netwrk.ru.com/cdn/premium147/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium147&test=true
+
+#EXTINF: -1 tvg-id="5stars.il", Sport 5 Stars [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38703
+
+#EXTINF:-1 tvg-id="5plusgold.il", Sport 5 Gold [Daddylive]
+https://netwrk.ru.com/cdn/premium148/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium148&test=true
+
+#EXTINF:-1 tvg-id="5plusgold.il", Sport 5 Gold [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38700
+
+#EXTINF: -1 tvg-id="5sport4k.il", Sport 5 4K [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/59033
+
+
+#EXTINF: -1 tvg-id="eurosport.il", Eurosport 1 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103262
+
+#EXTINF: -1 tvg-id="eurosport2.il", Eurosport 2 [IPTV] 
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103263
+
+
+
+#EXTINF: -1 tvg-id="discovery.il", Discovery [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38632
+#EXTINF: -1 tvg-id="discoveryscience.il", Discovery Science [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38631
+
+#EXTINF: -1 tvg-id="eentertainment.il", E! Entertainment [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38638
+
+
+
+#EXTINF: -1 tvg-id="historychannel.il", History Channel [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38630
+#EXTINF: -1 tvg-id="historychannel.il", History Channel [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103276
+
+#EXTINF: -1 tvg-name="Home Plus IL" , Home+ [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38660
+
+
+#EXTINF: -1 tvg-id="hot3.il", HOT 3 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38674
+
+#EXTINF:-1, Hot Bidur [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103275
+
+#EXTINF:-1, HOT Cinema 1 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38671
+#EXTINF:-1, HOT Cinema 2 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38670
+#EXTINF:-1, HOT Cinema 3 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38669
+#EXTINF:-1, HOT Cinema 4 [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38668
+
+#EXTINF:-1, HOT Comedy Central [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38667
+#EXTINF:-1, HOT HBO [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38672
+#EXTINF:-1 tvg-id="hotzone.il", HOT Zone [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38673
+
+
+
+#EXTINF: -1 tvg-name="YES 2 HD IL" , YES Israeli [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38696
+
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38690
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38684
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV 3]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103284
+
+#EXTINF:-1 tvg-id="yesdoku.il", YES Docu [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103265
+#EXTINF: -1 tvg-id="yesdoku.il", YES Docu [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
+
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38680
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103285
+
+
+#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103282
+#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [IPTV 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103268
+
+#EXTINF: -1 tvg-id="yesmoviescomedy.il", YES Movies Comedy [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103269
+
+#EXTINF: -1 tvg-id="yesmoviesdrama.il", YES Movies Drama [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103267
+
+
+#EXTINF: -1 tvg-id="zoom.il" tvg-name="ZOOM IL", ZOOM [IPTV]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38663
