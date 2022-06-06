@@ -1,96 +1,96 @@
 #EXTM3U url-tvg="http://103.71.173.240/xmltv.xml"
 
-#EXTINF:-1 tvg-id="channelone.il" , ONE 1 [IPTV]
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38714
 
-#EXTINF:-1 tvg-id="channelone.il", ONE 1 [IPTV 2]
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103289
 
-#EXTINF:-1 tvg-id="channelone.il", ONE 1 [IPTV 3]
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV 3]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
 
-#EXTINF:-1 tvg-id="one2.il", ONE 2 [IPTV]
+#EXTINF:-1 tvg-id="one2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/one2.png", ONE 2 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38713
 
-#EXTINF:-1 tvg-id="sport1.il", Sport 1 [Daddylive]
+#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [Daddylive]
 https://netwrk.ru.com/cdn/premium140/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium140&test=true
 
-#EXTINF:-1 tvg-id="sport1.il", Sport 1 [IPTV 1]
+#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [IPTV 1]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38711
 
-#EXTINF:-1 tvg-id="sport1.il", Sport 1 [IPTV 2]
+#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [IPTV 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38712
 
-#EXTINF:-1 tvg-id="sport2.il", Sport 2 [Daddylive]
+#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Daddylive]
 https://netwrk.ru.com/cdn/premium141/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium141&test=true
 
-#EXTINF:-1 tvg-id="sport2.il", Sport 2 [IPTV]
+#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38710
 
-#EXTINF:-1 tvg-id="sport3.il", Sport 3 [Daddylive]
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [Daddylive]
 https://netwrk.ru.com/cdn/premium142/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium142&test=true
 
-#EXTINF:-1 tvg-id="sport3.il", Sport 3 [IPTV]
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38709
 
-#EXTINF:-1 tvg-id="sport3.il", Sport 3 [IPTV 2]
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [IPTV 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38694
 
 
-#EXTINF:-1 tvg-id="sport4.il", Sport 4 [Daddylive]
+#EXTINF:-1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [Daddylive]
 https://netwrk.ru.com/cdn/premium143/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium143&test=true
 
-#EXTINF: -1 tvg-id="sport4.il", Sport 4 [IPTV]
+#EXTINF: -1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38708
 
-#EXTINF:-1 tvg-id="sport5.il", Sport 5 [Daddylive]
+#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Daddylive]
 https://netwrk.ru.com/cdn/premium144/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium144&test=true
 
-#EXTINF:-1 tvg-id="sport5.il", Sport 5 [IPTV]
+#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38705
 
-#EXTINF:-1 tvg-id="sport5plus.il", Sport 5 Plus [Daddylive]
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5plus.png", Sport 5 Plus [Daddylive]
 https://netwrk.ru.com/cdn/premium145/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium145&test=true
 
-#EXTINF:-1 tvg-id="sport5plus.il", Sport 5 Plus [IPTV]
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5plus.png", Sport 5 Plus [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38702
 
-#EXTINF:-1 tvg-id="5live.il", Sport 5 Live [Daddylive]
+#EXTINF:-1 tvg-id="5live.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5live.png", Sport 5 Live [Daddylive]
 https://netwrk.ru.com/cdn/premium146/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium146&test=true
 
-#EXTINF:-1 tvg-id="5live.il", Sport 5 Live [IPTV]
+#EXTINF:-1 tvg-id="5live.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5live.png", Sport 5 Live [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38701
 
-#EXTINF:-1 tvg-id="5stars.il", Sport 5 Stars [Daddylive]
+#EXTINF:-1 tvg-id="5stars.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5star.png", Sport 5 Stars [Daddylive]
 https://netwrk.ru.com/cdn/premium147/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium147&test=true
 
-#EXTINF: -1 tvg-id="5stars.il", Sport 5 Stars [IPTV]
+#EXTINF: -1 tvg-id="5stars.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5star.png", Sport 5 Stars [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38703
 
-#EXTINF:-1 tvg-id="5plusgold.il", Sport 5 Gold [Daddylive]
+#EXTINF:-1 tvg-id="5plusgold.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5gold.png", Sport 5 Gold [Daddylive]
 https://netwrk.ru.com/cdn/premium148/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium148&test=true
 
-#EXTINF:-1 tvg-id="5plusgold.il", Sport 5 Gold [IPTV]
+#EXTINF:-1 tvg-id="5plusgold.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5gold.png", Sport 5 Gold [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38700
 
-#EXTINF: -1 tvg-id="5sport4k.il", Sport 5 4K [IPTV]
+#EXTINF: -1 tvg-id="5sport4k.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5uhd.png", Sport 5 4K [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/59033
 
 
-#EXTINF: -1 tvg-id="eurosport.il", Eurosport 1 [IPTV]
+#EXTINF: -1 tvg-id="eurosport.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/euro1.png", Eurosport 1 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103262
 
-#EXTINF: -1 tvg-id="eurosport2.il", Eurosport 2 [IPTV] 
+#EXTINF: -1 tvg-id="eurosport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/euro2.png", Eurosport 2 [IPTV] 
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103263
 
 
 
-#EXTINF: -1 tvg-id="discovery.il", Discovery [IPTV]
+#EXTINF: -1 tvg-id="discovery.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/discovery.png", Discovery [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38632
-#EXTINF: -1 tvg-id="discoveryscience.il", Discovery Science [IPTV]
+#EXTINF: -1 tvg-id="discoveryscience.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/discovery.png", Discovery Science [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38631
 
-#EXTINF: -1 tvg-id="eentertainment.il", E! Entertainment [IPTV]
+#EXTINF: -1 tvg-id="eentertainment.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/e.png", E! Entertainment [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38638
 
 
