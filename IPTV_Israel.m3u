@@ -1,163 +1,210 @@
 #EXTM3U url-tvg="http://103.71.173.240/xmltv.xml"
 
-#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV]
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14775
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38714
-
-#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV 2]
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103289
 
-#EXTINF:-1 tvg-id="one2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/one2.png", ONE 2 [IPTV]
+
+#EXTINF:-1 tvg-id="one2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/one2.png", ONE 2 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38713
 
 #EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [Daddylive]
 https://netwrk.ru.com/cdn/premium140/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium140&test=true
-
-#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [IPTV 1]
+#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14785
+#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [Portals 1]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38711
-
-#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [IPTV 2]
+#EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38712
 
 #EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Daddylive]
 https://netwrk.ru.com/cdn/premium141/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium141&test=true
-
-#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [IPTV]
+#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14787
+#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Restream 2]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281396
+#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38710
 
 #EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [Daddylive]
 https://netwrk.ru.com/cdn/premium142/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium142&test=true
-
-#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [IPTV]
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/91282
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [Restream 2]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281397
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38709
-
-#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [IPTV 2]
+#EXTINF:-1 tvg-id="sport3.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 3 [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38694
-
 
 #EXTINF:-1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [Daddylive]
 https://netwrk.ru.com/cdn/premium143/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium143&test=true
-
-#EXTINF: -1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [IPTV]
+#EXTINF:-1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/40609
+#EXTINF:-1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [Restream 2]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281398
+#EXTINF:-1 tvg-id="sport4.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 4 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38708
 
 #EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Daddylive]
 https://netwrk.ru.com/cdn/premium144/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium144&test=true
-
-#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [IPTV]
+#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/91281
+#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38705
 
 #EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5plus.png", Sport 5 Plus [Daddylive]
 https://netwrk.ru.com/cdn/premium145/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium145&test=true
 
-#EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5plus.png", Sport 5 Plus [IPTV]
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5plus.png", Sport 5 Plus [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38702
 
 #EXTINF:-1 tvg-id="5live.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5live.png", Sport 5 Live [Daddylive]
 https://netwrk.ru.com/cdn/premium146/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium146&test=true
-
-#EXTINF:-1 tvg-id="5live.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5live.png", Sport 5 Live [IPTV]
+#EXTINF:-1 tvg-id="5live.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5live.png", Sport 5 Live [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/296055
+#EXTINF:-1 tvg-id="5live.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5live.png", Sport 5 Live [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38701
 
 #EXTINF:-1 tvg-id="5stars.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5star.png", Sport 5 Stars [Daddylive]
 https://netwrk.ru.com/cdn/premium147/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium147&test=true
-
-#EXTINF: -1 tvg-id="5stars.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5star.png", Sport 5 Stars [IPTV]
+#EXTINF: -1 tvg-id="5stars.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5star.png", Sport 5 Stars [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38703
+#EXTINF: -1 tvg-id="5stars.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5star.png", Sport 5 Stars [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14788
 
 #EXTINF:-1 tvg-id="5plusgold.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5gold.png", Sport 5 Gold [Daddylive]
 https://netwrk.ru.com/cdn/premium148/playlist.m3u8|referer=https://player.licenses4.me/player.php?id=premium148&test=true
-
-#EXTINF:-1 tvg-id="5plusgold.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5gold.png", Sport 5 Gold [IPTV]
+#EXTINF:-1 tvg-id="5plusgold.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5gold.png", Sport 5 Gold [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/147174
+#EXTINF:-1 tvg-id="5plusgold.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5gold.png", Sport 5 Gold [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38700
 
-#EXTINF: -1 tvg-id="5sport4k.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5uhd.png", Sport 5 4K [IPTV]
+#EXTINF: -1 tvg-id="5sport4k.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5uhd.png", Sport 5 4K [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/59033
 
-
-#EXTINF: -1 tvg-id="eurosport.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/euro1.png", Eurosport 1 [IPTV]
+#EXTINF: -1 tvg-id="eurosport.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/euro1.png", Eurosport 1 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103262
 
-#EXTINF: -1 tvg-id="eurosport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/euro2.png", Eurosport 2 [IPTV] 
+#EXTINF: -1 tvg-id="eurosport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/euro2.png", Eurosport 2 [Portals] 
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103263
 
 
 
-#EXTINF: -1 tvg-id="discovery.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/discovery.png", Discovery [IPTV]
+#EXTINF: -1 tvg-id="discovery.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/discovery.png", Discovery [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38632
-#EXTINF: -1 tvg-id="discoveryscience.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/discovery.png", Discovery Science [IPTV]
+#EXTINF: -1 tvg-id="discoveryscience.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/discovery.png", Discovery Science [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38631
 
-#EXTINF: -1 tvg-id="eentertainment.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/e.png", E! Entertainment [IPTV]
+#EXTINF: -1 tvg-id="eentertainment.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/e.png", E! Entertainment [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38638
 
 
 
-#EXTINF: -1 tvg-id="historychannel.il", History Channel [IPTV]
+#EXTINF: -1 tvg-id="historychannel.il", History Channel [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38630
-#EXTINF: -1 tvg-id="historychannel.il", History Channel [IPTV 2]
+#EXTINF: -1 tvg-id="historychannel.il", History Channel [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103276
 
-#EXTINF: -1 tvg-name="Home Plus IL" , Home+ [IPTV]
+
+#EXTINF: -1 tvg-name="Home Plus IL" , Home+ [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/163453
+#EXTINF: -1 tvg-name="Home Plus IL" , Home+ [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38660
 
 
-#EXTINF: -1 tvg-id="hot3.il", HOT 3 [IPTV]
+#EXTINF:-1 tvg-id="hot3.il", HOT 3 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90952
+#EXTINF:-1 tvg-id="hot3.il", HOT 3 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38674
 
-#EXTINF:-1 tvg-id="HotEntertainmentIsrael.il", Hot Bidur [IPTV]
+#EXTINF:-1 tvg-id="HotEntertainmentIsrael.il", Hot Bidur [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103275
 
-#EXTINF:-1 tvg-id="HotMovies1.il", HOT Cinema 1 [IPTV]
+#EXTINF:-1 tvg-id="HotMovies1.il", HOT Cinema 1 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38671
-#EXTINF:-1 tvg-id="HotMovies2.il", HOT Cinema 2 [IPTV]
+
+#EXTINF:-1 tvg-id="HotMovies2.il", HOT Cinema 2 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38670
-#EXTINF:-1 tvg-id="HotMovies3.il", HOT Cinema 3 [IPTV]
+
+#EXTINF:-1 tvg-id="HotMovies3.il", HOT Cinema 3 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38669
-#EXTINF:-1 tvg-id="HotMovies4.il", HOT Cinema 4 [IPTV]
+
+#EXTINF:-1 tvg-id="HotMovies4.il", HOT Cinema 4 [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/171758
+#EXTINF:-1 tvg-id="HotMovies4.il", HOT Cinema 4 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38668
 
-#EXTINF:-1 tvg-id="ComedyCentral.il", HOT Comedy Central [IPTV]
+#EXTINF:-1 tvg-id="ComedyCentral.il", HOT Comedy Central [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38667
-#EXTINF:-1 tvg-id="HotHBO.il", HOT HBO [IPTV]
+
+#EXTINF:-1 tvg-id="HotHBO.il", HOT HBO [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38672
-#EXTINF:-1 tvg-id="hotzone.il", HOT Zone [IPTV]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38673
+
+#EXTINF:-1 tvg-id="hotzone.il", HOT Zone [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/151379
 
 
 
-#EXTINF: -1 tvg-id="YesIsraeli.il" , YES Israeli [IPTV]
+#EXTINF: -1 tvg-id="YesIsraeli.il" , YES Israeli [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/171738
+#EXTINF: -1 tvg-id="YesIsraeli.il" , YES Israeli [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38696
 
-#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV]
+
+
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/40607
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Restream 2]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14781
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38690
-#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV 2]
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38684
-#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV 3]
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals 3]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103284
 
-#EXTINF:-1 tvg-id="yesdoku.il", YES Docu [IPTV]
+#EXTINF: -1 tvg-id="yestvaction.il", YES TV Action [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/163479
+
+
+#EXTINF:-1 tvg-id="yesdoku.il", YES Docu [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103265
-#EXTINF: -1 tvg-id="yesdoku.il", YES Docu [IPTV 2]
+#EXTINF: -1 tvg-id="yesdoku.il", YES Docu [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
 
-#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV]
+
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14782
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38680
-#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV 2]
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103285
-#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV 3]
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [Portals 3]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
 
-#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [IPTV]
+
+#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/14776
+#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103282
-#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [IPTV 2]
+#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103268
 
-#EXTINF: -1 tvg-id="yesmoviescomedy.il", YES Movies Comedy [IPTV]
+#EXTINF: -1 tvg-id="yesmoviescomedy.il", YES Movies Comedy [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103269
 
-#EXTINF: -1 tvg-id="yesmoviesdrama.il", YES Movies Drama [IPTV]
+
+#EXTINF: -1 tvg-id="yesmoviesdrama.il", YES Movies Drama [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/196395
+#EXTINF: -1 tvg-id="yesmoviesdrama.il", YES Movies Drama [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103267
 
 
-#EXTINF: -1 tvg-id="zoom.il" tvg-name="ZOOM IL", ZOOM [IPTV]
+#EXTINF: -1 tvg-id="zoom.il" tvg-name="ZOOM IL", ZOOM [Restream]
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/90949
+#EXTINF: -1 tvg-id="zoom.il" tvg-name="ZOOM IL", ZOOM [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38663
