@@ -6,9 +6,6 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38714
 #EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103289
 
-#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", ONE 1 [IPTV 3]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
-
 #EXTINF:-1 tvg-id="one2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/one2.png", ONE 2 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38713
 
@@ -107,28 +104,28 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38660
 #EXTINF: -1 tvg-id="hot3.il", HOT 3 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38674
 
-#EXTINF:-1, Hot Bidur [IPTV]
+#EXTINF:-1 tvg-id="HotEntertainmentIsrael.il", Hot Bidur [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103275
 
-#EXTINF:-1, HOT Cinema 1 [IPTV]
+#EXTINF:-1 tvg-id="HotMovies1.il", HOT Cinema 1 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38671
-#EXTINF:-1, HOT Cinema 2 [IPTV]
+#EXTINF:-1 tvg-id="HotMovies2.il", HOT Cinema 2 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38670
-#EXTINF:-1, HOT Cinema 3 [IPTV]
+#EXTINF:-1 tvg-id="HotMovies3.il", HOT Cinema 3 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38669
-#EXTINF:-1, HOT Cinema 4 [IPTV]
+#EXTINF:-1 tvg-id="HotMovies4.il", HOT Cinema 4 [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38668
 
-#EXTINF:-1, HOT Comedy Central [IPTV]
+#EXTINF:-1 tvg-id="ComedyCentral.il", HOT Comedy Central [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38667
-#EXTINF:-1, HOT HBO [IPTV]
+#EXTINF:-1 tvg-id="HotHBO.il", HOT HBO [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38672
 #EXTINF:-1 tvg-id="hotzone.il", HOT Zone [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38673
 
 
 
-#EXTINF: -1 tvg-name="YES 2 HD IL" , YES Israeli [IPTV]
+#EXTINF: -1 tvg-id="YesIsraeli.il" , YES Israeli [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38696
 
 #EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [IPTV]
@@ -147,7 +144,8 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38680
 #EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103285
-
+#EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [IPTV 3]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
 
 #EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [IPTV]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103282
