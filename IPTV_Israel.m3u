@@ -17,9 +17,9 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38711
 #EXTINF:-1 tvg-id="sport1.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 1 [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38712
 
-#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Daddylive]
+#EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Daddylive 1]
 https://networkbest.ru.com/cdn/premium141/playlist.m3u8|referer=https://player.licenses4.me/
-#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://github.com/yonatand1230/tv/raw/master/logos/one.png", Sport 2 [Daddylive #2]
+#EXTINF:-1 tvg-id="channelone.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Daddylive 2]
 https://networkbest.ru.com/cdn/premium141/playlist.m3u8|referer=https://player.licenses4.me/
 #EXTINF:-1 tvg-id="sport2.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport1.png", Sport 2 [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38710
@@ -38,8 +38,10 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38708
 
 #EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Daddylive]
 https://networkbest.ru.com/cdn/premium144/playlist.m3u8|referer=https://player.licenses4.me/
-#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Portals]
+#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Portals 1]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38705
+#EXTINF:-1 tvg-id="sport5.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/sport5.png", Sport 5 [Portals 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38690
 
 #EXTINF:-1 tvg-id="sport5plus.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/5plus.png", Sport 5 Plus [Daddylive]
 https://networkbest.ru.com/cdn/premium145/playlist.m3u8|referer=https://player.licenses4.me/
@@ -78,6 +80,8 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38631
 
 #EXTINF: -1 tvg-id="eentertainment.il" tvg-logo="https://raw.githubusercontent.com/yonatand1230/tv/master/logos/e.png", E! Entertainment [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38638
+
+
 
 
 #EXTINF: -1 tvg-id="historychannel.il", History Channel [Portals]
@@ -126,19 +130,18 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38672
 #EXTINF: -1 tvg-id="YesIsraeli.il" , YES Israeli [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38696
 
-#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38690
-#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals 2]
+
+#EXTINF: -1 tvg-id="yestvaction.il", YES TV Action [Daddylive]
+https://networkbest.ru.com/cdn/premium543/playlist.m3u8|referer=https://player.licenses4.me/
+
+
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Daddylive]
+https://networkbest.ru.com/cdn/premium545/playlist.m3u8|referer=https://player.licenses4.me/
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals 1]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38684
-#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals 3]
+#EXTINF: -1 tvg-id="yestvcomedy.il", YES TV Comedy [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103284
 
-
-
-#EXTINF:-1 tvg-id="yesdoku.il", YES Docu [Portals]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103265
-#EXTINF: -1 tvg-id="yesdoku.il", YES Docu [Portals 2]
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
 
 #EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38680
@@ -147,16 +150,17 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103285
 #EXTINF: -1 tvg-id="yestvdrama.il", YES TV Drama [Portals 3]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38699
 
+#EXTINF:-1 tvg-id="yesdoku.il", YES Docu [Portals]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103265
+#EXTINF: -1 tvg-id="yesdoku.il", YES Docu [Portals 2]
+http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/38682
 
-#EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [Daddylive]
-https://networkbest.ru.com/cdn/premium543/playlist.m3u8|referer=https://player.licenses4.me/
+
 #EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103282
 #EXTINF: -1 tvg-id="yesmoviesaction.il", YES Movies Action [Portals 2]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103268
 
-#EXTINF: -1 tvg-id="yesmoviescomedy.il", YES Movies Comedy [Daddylive]
-https://networkbest.ru.com/cdn/premium545/playlist.m3u8|referer=https://player.licenses4.me/
 #EXTINF: -1 tvg-id="yesmoviescomedy.il", YES Movies Comedy [Portals]
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/103269
 
