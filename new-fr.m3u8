@@ -7,8 +7,6 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunkli
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
-#EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source-Website)
-https://raw.githubusercontent.com/yonatand1230/tv/master/France%202%20Channel%20Index.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source-1)
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/23076
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source-2)
