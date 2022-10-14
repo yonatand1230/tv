@@ -52,23 +52,20 @@ http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/102599
 http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/82753
 
 
-#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Source-1)
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/23066
-
-#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Soucre-2)
-http://clientsportals.com:2095/mU0keG6C/tm2X5NMZ/23065
-
-#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Soucre-3)
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-
-#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe (Soucre-4)
-https://list.iptvcat.com/my_list/s/a0a1ac4ed3618efed293183ab843c431.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe FHD
+https://raw.githubusercontent.com/yonatand1230/tv/master/tv5-fhd.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe HD
+https://raw.githubusercontent.com/yonatand1230/tv/master/tv5-hd.m3u8
 
 #EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Morocco",MA | Télé Maroc
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
 #EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Morocco",MA | M24 TV
-https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-1)
+http://red.ipfox.org:8080/osama2022/osama2023/49063
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-2)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde (Source-3)
 https://list.iptvcat.com/my_list/s/3ffdbab743a33588f33cc99f10127a84.m3u8
