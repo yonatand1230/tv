@@ -55,3 +55,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tu
 
 #EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://foutni.com/wp-content/uploads/2015/06/MEDI-1-TV-Logo-300x300-150x150.jpg" group-title="Morocco",MA | Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w1036343326_b978000_DVR_slar.m3u8
+
+#EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://foutni.com/wp-content/uploads/2015/06/12642517135_7a8984a490-150x150.jpg" group-title="Morocco",MA | Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
