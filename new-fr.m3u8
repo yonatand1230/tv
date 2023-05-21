@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/yonatand1230/tv/master/tv5-hd.m3u8
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
 #EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Morocco",MA | 2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 #EXTINF:-1 tvg-country="MA" tvg-id="" tvg-logo="https://foutni.com/wp-content/uploads/2015/06/MEDI-1-TV-Logo-300x300-150x150.jpg" group-title="Morocco",MA | Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w1036343326_b978000_DVR_slar.m3u8
