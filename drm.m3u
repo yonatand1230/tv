@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="", empty1
-https://google.com/
-
-#EXTINF:-1 tvg-logo="" group-title="",test c4
+#EXTINF:-1 tvg-logo="" group-title="",ערוץ הילדים
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://rge-bigi-prod.cloud.seachange.com/zuul/drmproxy/rge-bigi/multi-drm/widevine/license?streamId=1547&drmTicket=eyJraWQiOiJxSXBXMHg1diIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJwZCI6IjI1OTIwMDAiLCJrcyI6ImttcyIsImxkIjoiMjU5MjAwMCIsImRldmljZV90eXBlIjoiZGFzaC13aWRldmluZSIsImV4cCI6MTcwMTU0MzI3MSwiYWlkIjoiNTI0NjA4M2EtYTc1Ny00NTEwLTllNTUtMGQ5NDU3YWM4NjdhIiwiaWYiOiJmYWxzZSIsIm9mZiI6ImZhbHNlIiwiY2lkIjoiRGFzaC1NZWRpYVBhY2thZ2UtcmdlLWJpZ2ktcHJvZC1jaGFubmVsLTAifQ.g7JqvIDam5QMBwR0_bz1N3ThmAYP_9br_A-1nZNLviE
