@@ -276,7 +276,7 @@ https://f1d26a28c95485cc.mediapackage.eu-west-1.amazonaws.com/out/v1/913940406ff
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eWh8EGQ5DeZR2dZkPXXUCw","kid":"emUErgckxYyWNiOC33zizg"}],"type":"temporary"}
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/edu23_hevc/live.livx
 
-#EXTINF:-1 tvg-id="3355714" tvg-logo="?dstw=500&dsth=500" group-title="Children" catchup-source="http://192.168.68.150:8000/catchup?channel=junior&start=${start}&end=${end}" tvg-rec="7" catchup-days="7",ג'וניור
+#EXTINF:-1 tvg-id="3355714" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3355714/images/10193833_1677586633234?dstw=500&dsth=500" group-title="Children" catchup-source="http://192.168.68.150:8000/catchup?channel=junior&start=${start}&end=${end}" tvg-rec="7" catchup-days="7",ג'וניור
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AN/LsU4/bnIqtrOPCvas3Q","kid":"t5wahq6c/yR4VoMkX0WTfQ"}],"type":"temporary"}
