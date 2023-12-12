@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://bit.ly/DikoPlusEPG"
 
 #EXTINF:-1 tvg-id="kan-11-YES" tvg-name="kan-11-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3370462/images/11547389_1699972817959?dstw=500&dsth=500" group-title="News",Kan 11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
