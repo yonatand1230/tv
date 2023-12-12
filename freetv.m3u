@@ -1,0 +1,309 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="kan-11-YES" tvg-name="kan-11-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3370462/images/11547389_1699972817959?dstw=500&dsth=500" group-title="News",Kan 11
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xDmrJ83koW535qRage9csg","kid":"HqNExFOFretk37CQnh0xVw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/kan11/live.livx
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-name="keshet-12-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3340020/images/11547390_1699972835932?dstw=500&dsth=500" group-title="News",Keshet 12
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qW/gLrRy3ANLKsTB5a0iOQ","kid":"X4ZIGFhk3prN2DjJReI8KQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/keshet_12/live.livx
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-name="reshet-13-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3328044/images/11547391_1699972886945?dstw=500&dsth=500" group-title="News",Reshet 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KkURdhWwOu5rrpD/EbWNyQ","kid":"ja8zWGl+lLiddMEHjaCJFg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/reshet_13/live.livx
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-name="now-14-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3457869/images/11547392_1699972904589?dstw=500&dsth=500" group-title="News",Now 14
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zP58RRgKQ7yGRDSIEHTJGA","kid":"6hipru/sb/98aSxD5BKMlg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/ch14/live.livx
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-name="channel-24-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3355712/images/11548172_1699973215476?dstw=500&dsth=500" group-title="News",Music 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B0dxz/j+ZCHGNhBx4hEZ5w","kid":"niufs8FGdxGenIlpFaNEYA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/music24/live.livx
+
+#EXTINF:-1 tvg-id="knesset-99-YES" tvg-name="knesset-99-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3362990/images/11548184_1699973513181?dstw=500&dsth=500" group-title="News",Knesset 99
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CACzBq8ioCD4PKcMqEU8cQ","kid":"1KjhAT6IUWpIGvJHhDASnA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/kneset/live.livx
+
+#EXTINF:-1 tvg-id="makan-33-YES" tvg-name="makan-33-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3371021/images/11548186_1699973693758?dstw=500&dsth=500" group-title="News",Makkan 33
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"93m3sHuu/bFqsyIqpjdCyw","kid":"J9YvbeWmLwYo53PEiypCOg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/makkan/live.livx
+
+#EXTINF:-1 tvg-id="israel-plus-9-YES" tvg-name="israel-plus-9-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3359448/images/11547388_1699972776215?dstw=500&dsth=500" group-title="News",Channel 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8uYlFMF9pLwVk8JJ85igxA","kid":"GHnmfew1ZvA0Kz25uv00kg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/ch9/live.livx
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-name="sport-5-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3343512/images/11548187_1699973870707?dstw=500&dsth=500" group-title="Sports",SPORT 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"RwizUu4dUMzflK+dKpUu2A","kid":"IyuzwxsIhlSuUXbanDWICA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5/live.livx
+
+#EXTINF:-1 tvg-id="sport-5-plus-YES" tvg-name="sport-5-plus-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3357261/images/11548188_1699973906056?dstw=500&dsth=500" group-title="Sports",SPORT 5 PLUS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"3a/T0yZiVQ5iSoG4v8TtCQ","kid":"YosUspE2ribk6hpr2up+3g"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_plus/live.livx
+
+#EXTINF:-1 tvg-id="sport-5-gold-YES" tvg-name="sport-5-gold-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3357262/images/11548189_1699973964874?dstw=500&dsth=500" group-title="Sports",SPORT 5 GOLD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"271gHfQjbqD1XmDZndcFZA","kid":"85CIvDeUUmG3VwrBhalVNg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_gold/live.livx
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-name="sport-5-live-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3407570/images/11548190_1699973983011?dstw=500&dsth=500" group-title="Sports",SPORT 5 LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"E6SNwsElf9mhGbRI3lIl9g","kid":"2nxmzPQvRZwA/fGthH1PwA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx?indexMode
+
+
+#EXTINF:-1 tvg-id="sport-5-stars-YES" tvg-name="sport-5-stars-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3407571/images/11548192_1699974049000?dstw=500&dsth=500" group-title="Sports",SPORT 5 STARS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"f1MeTu1dB/WuGHyIB7QEgA","kid":"B+GI983+ifGxV3ZrxNsITg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_starz/live.livx
+
+#EXTINF:-1 tvg-id="sport-5-4k-YES" tvg-name="sport-5-4k-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3367345/images/11548193_1699974076151?dstw=500&dsth=500" group-title="Sports",SPORT 5 4K (h264)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"iEFk6VGPEqE7dHN5juusTQ","kid":"8aCYJ2TqHvqt6UqE0TuzKg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_4k_avc/live.livx
+
+#EXTINF:-1 tvg-id="sport-5-4k-YES" tvg-name="sport-5-4k-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3367345/images/11548193_1699974076151?dstw=500&dsth=500" group-title="Sports",SPORT 5 4K (h265)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"iEFk6VGPEqE7dHN5juusTQ","kid":"8aCYJ2TqHvqt6UqE0TuzKg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_4k/live.livx
+
+#EXTINF:-1 tvg-id="one-YES" tvg-name="one-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3502701/images/11548194_1699974100916?dstw=500&dsth=500" group-title="Sports",ONE 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"bjMUo50Gr1VToWuFUPBpHg","kid":"nNKbP2oGDnCLKCxKncz46w"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx
+
+#EXTINF:-1 tvg-id="one-2-YES" tvg-name="one-2-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3502702/images/11548195_1699974120968?dstw=500&dsth=500" group-title="Sports",ONE 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"Eok7EugMPF269rSZTIQywA","kid":"nckJby1XbZxNYWUh7nhUYA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx
+
+#EXTINF:-1 tvg-id="one-doco-YES" tvg-name="one-doco-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3480000/images/11548196_1699974147110?dstw=500&dsth=500" group-title="Sports",ONE DOCO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"F1E8k34TGlhoTauf/Yoh7g","kid":"SX0krIWel1Gu8Xo23xlJgQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_doco/live.livx
+
+#EXTINF:-1 tvg-id="sport-edge-YES" tvg-name="sport-edge-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3479999/images/11548197_1699974194437?dstw=500&dsth=500" group-title="Sports",EDGE SPORT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"Kyg0CxZJD7ZMr6Y7sRyvgQ","kid":"5utnCvNANY+E4+3vPUw75w"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_edge/live.livx
+
+#EXTINF:-1 tvg-id="viva-YES" tvg-name="viva-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3509587/images/11548162_1699972948126?dstw=500&dsth=500" group-title="Entertainment",Viva
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"cBZVExvxuUdNO0iN7mKPWw","kid":"81bQXuSEsAkbswzeOMjbCQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/viva/live.livx
+
+#EXTINF:-1 tvg-id="viva-plus-YES" tvg-name="viva-plus-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3509588/images/11548163_1699972970880?dstw=500&dsth=500" group-title="Entertainment",Viva Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"PwOH4coC9OBvZjtK4S48iQ","kid":"2hMkwvhpdKM9IPWIgdJ9sQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/viva_plus/live.livx
+
+#EXTINF:-1 tvg-id="vamos-HOT" tvg-name="vamos-HOT" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3513312/images/11548164_1699972992588?dstw=500&dsth=500" group-title="Entertainment",Vamos
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"rqOz+MY/K6xiqwKbmKacJA","kid":"3N6RoHw5ksh5wAMg64xp7Q"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/vamos/live.livx
+
+#EXTINF:-1 tvg-id="tv-series-global-FREETV" tvg-name="tv-series-global-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3540298/images/11548165_1699973025169?dstw=500&dsth=500" group-title="Entertainment",FreeTV Series Global
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"DZsiehyuo6H7GasNruBO4w","kid":"oljCf9eNBM4DD359D4DjuQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_global/live.livx
+
+#EXTINF:-1 tvg-id="movies-action-FREETV" tvg-name="movies-action-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3479998/images/11548166_1699973064017?dstw=500&dsth=500" group-title="Entertainment",FreeTV Movies Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"s63MOIR2iL84TwlhQl/noA","kid":"C1s31CecWW8sK7IEtAFEYA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_movies_action/live.livx
+
+#EXTINF:-1 tvg-id="movies-comedy-FREETV" tvg-name="movies-comedy-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3579246/images/11548167_1699973093911?dstw=500&dsth=500" group-title="Entertainment",FreeTV Movies Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"8VegmlAQufsHhzhPLHd48A","kid":"MIE7PqRBnGNzOl8bZo0JHw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_movies_comedy/live.livx
+
+#EXTINF:-1 tvg-id="movies-romantic-FREETV" tvg-name="movies-romantic-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3579249/images/11548168_1699973117930?dstw=500&dsth=500" group-title="Entertainment",FreeTV Movies Romantic
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"W4K3xr7cVXlEqnd4E+668A","kid":"rmWgvP9PYyEM5VMhUA+B8A"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_movies_romance/live.livx
+
+
+#EXTINF:-1 tvg-id="movies-drama-FREETV" tvg-name="movies-drama-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3579247/images/11548169_1699973140940?dstw=500&dsth=500" group-title="Entertainment",FreeTV Movies Drama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"CFrHHYlTD5MM+H+ecY7JZQ","kid":"Hu2xK61Nfi6M4yu/7QY/dQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_movies_drama/live.livx
+
+#EXTINF:-1 tvg-id="movies-horror-FREETV" tvg-name="movies-horror-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3579248/images/11548170_1699973166188?dstw=500&dsth=500" group-title="Entertainment",FreeTV Movies Horror
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"NxPB3jWDVYXrpekQ75qTTg","kid":"irRKkC84343j5NlqMrs+BQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_movies_horror/live.livx
+
+#EXTINF:-1 tvg-id="movies-israeli-FREETV" tvg-name="movies-israeli-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3479997/images/11548171_1699973187638?dstw=500&dsth=500" group-title="Entertainment",FreeTV Movies Israeli
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"Q+eVxSKZBKTR9Hf3wILpmA","kid":"cvc0NQ38eo1dbzYZBkNNCg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/free_israeli_movies/live.livx
+
+#EXTINF:-1 tvg-id="tv-drama-FREETV" tvg-name="tv-drama-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3598042/images/11548175_1699973291486?dstw=500&dsth=500" group-title="Entertainment",FreeTV Drama
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"/9tpNIj+swbjU73TJYM/rg","kid":"01KZDBBIQtMm/WYcoDM9SQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/imagin_drama/live.livx
+
+#EXTINF:-1 tvg-id="tv-comedy-FREETV" tvg-name="tv-comedy-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3598043/images/11548176_1699973313955?dstw=500&dsth=500" group-title="Entertainment",FreeTV Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"VNEN20tZS1qaaKMAJgdh4A","kid":"+SqCGRlMrjlyEae7bDgfxA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/imagin_comedy/live.livx
+
+#EXTINF:-1 tvg-id="lifestyle-FREETV" tvg-name="lifestyle-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3611643/images/11548177_1699973335296?dstw=500&dsth=500" group-title="Entertainment",FreeTV Lifestyle
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"olNg0FsX8jsp91wo+eqQ6w","kid":"tfCKTMjDItS8BudgWQFkwQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/imagin_lifestyle/live.livx
+
+#EXTINF:-1 tvg-id="food-FREETV" tvg-name="food-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3611644/images/11548178_1699973360420?dstw=500&dsth=500" group-title="Entertainment",FreeTV Cooking
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"LB5oWzMGeWnSB3KvX7yEDg","kid":"6ICCh3Ch8mfGn9O5lGYApw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/imagin_cooking/live.livx
+
+#EXTINF:-1 tvg-id="docu-FREETV" tvg-name="docu-FREETV" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3611642/images/11548179_1699973388987?dstw=500&dsth=500" group-title="Entertainment",FreeTV Doco
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"ipx3NG6poLhal5BIZLGLdA","kid":"EhNJ76kUZesBZygy4U7ulQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/imagin_doco/live.livx
+
+#EXTINF:-1 tvg-id="muzika-il-HOT" tvg-name="muzika-il-HOT" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3393327/images/11548173_1699973243615?dstw=500&dsth=500" group-title="Entertainment",Music IL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"qH5+OSNmDcR9wPjwyg0qHg","kid":"BSB92cSk1USJ1WPIhMbeHA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/music_il/live.livx
+
+#EXTINF:-1 tvg-id="i24-YES" tvg-name="i24-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3812529/images/11548185_1699973673557?dstw=500&dsth=500" group-title="Entertainment",France 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"f66e3lbQJs07Wh7aGhh2zw","kid":"zt2E/tVbo+Q8221HQ6XRRQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/france_24_eng/live.livx
+
+#EXTINF:-1 tvg-id="baby-YES" tvg-name="baby-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3341401/images/11548198_1699974267662?dstw=500&dsth=500" group-title="Children",Baby
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ddmNTpIvpLQQM5eNiwzeqw","kid":"d/3O9WL4EwfffSN3o3yDLw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/baby/live.livx
+
+#EXTINF:-1 tvg-id="yalduti-YES" tvg-name="yalduti-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3584129/images/11548199_1699974290818?dstw=500&dsth=500" group-title="Children",Yalduti Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KTO+T/nnHTiqkZ1lz7N8IQ","kid":"8kSy6Lst1h01DLXSUakLvA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/yalduti_songs/live.livx
+
+#EXTINF:-1 tvg-id="yoyo-HOT" tvg-name="yoyo-HOT" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3520309/images/11548200_1699974321850?dstw=500&dsth=500" group-title="Children",Yoyo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xgGuFPKBHQTj8T1QAoOubw","kid":"39qDvNG2su4htpQlTQUHfw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/yoyo/live.livx
+
+#EXTINF:-1 tvg-id="hop-YES" tvg-name="hop-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3566487/images/11548201_1699974344524?dstw=500&dsth=500" group-title="Children",Hop Pele
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xLfwK5m2WJv4HN444IEF2g","kid":"bNllO7A/DsztY8yJzNHNHw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/hop_pele/live.livx
+
+#EXTINF:-1 tvg-id="a-plus-PARTNER" tvg-name="a-plus-PARTNER" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3343444/images/11548202_1699974370557?dstw=500&dsth=500" group-title="Children",A+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JAn9Gcrxy6B9P4dwBdDbPQ","kid":"lqKTXGXMFUcPPT3+8Uj+KQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/a_plus/live.livx
+
+#EXTINF:-1 tvg-id="stars-channel-YES" tvg-name="stars-channel-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3355713/images/11548203_1699974392202?dstw=500&dsth=500" group-title="Children",Kids Stars
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RJot928LuxBomkLu5JaOHQ","kid":"SFuEKj8kQpbOOL3vDixtlA"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/starz/live.livx
+
+#EXTINF:-1 tvg-id="yalduti-YES" tvg-name="yalduti-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3584128/images/11548204_1699974418521?dstw=500&dsth=500" group-title="Children",Yalduti
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6naS9tFOwZawHdOagkvNaw","kid":"Aw+coIFGaEJNm+7fPWOHqw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/yalduti/live.livx
+
+#EXTINF:-1 tvg-id="logi-HOT" tvg-name="logi-HOT" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3513314/images/11548205_1699974453974?dstw=500&dsth=500" group-title="Children",Logi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"svtEp+2hQ7kvn6ozZgsYNg","kid":"dG9GDnbW5F7kKjagH8xYUQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/logi/live.livx
+
+#EXTINF:-1 tvg-id="logi-HOT" tvg-name="logi-HOT" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3513314/images/11548205_1699974453974?dstw=500&dsth=500" group-title="Children",Logi (BIGI)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"vrCkj10nxSjNJApAtdGEUw","kid":"dajB+gWPQ2qEkwGs9DYx7g"}],"type":"temporary"}
+https://f1d26a28c95485cc.mediapackage.eu-west-1.amazonaws.com/out/v1/913940406ff04e5eb9defb4f7a0c85c0/index.mpd
+
+#EXTINF:-1 tvg-id="kan-chinuchit-23-YES" tvg-name="kan-chinuchit-23-YES" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3370497/images/11548206_1699974474817?dstw=500&dsth=500" group-title="Children",Kan Educational
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eWh8EGQ5DeZR2dZkPXXUCw","kid":"emUErgckxYyWNiOC33zizg"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/edu23/live.livx
+
+#EXTINF:-1 tvg-id="junior-YES" tvg-name="junior-YES" tvg-logo="?dstw=500&dsth=500" group-title="Children",Junior
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AN/LsU4/bnIqtrOPCvas3Q","kid":"t5wahq6c/yR4VoMkX0WTfQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/junior/live.livx
+
+#EXTINF:-1 tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3513313/images/10327592_1679230369288?dstw=500&dsth=500" group-title="Children",Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FTDGtnomPB4RHvVrncnMSw","kid":"46np4lS85CAEyg1SxZBFXw"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/kids_channel/live.livx
+
+#EXTINF:-1 tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3513313/images/10327592_1679230369288?dstw=500&dsth=500" group-title="Children",Kids Channel (BIGI)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"44L+tha1Bav56WUzjyxYrw","kid":"MAX9eueHSMKBref3qnjTDw"}],"type":"temporary"}
+https://f1d26a28c95485cc.mediapackage.eu-west-1.amazonaws.com/out/v1/8fe26b52a8e049629ce3aaf137d96eaf/index.mpd
+
+#EXTINF:-1 tvg-id="fomo-HOT" tvg-name="fomo-HOT" tvg-logo="https://d1zqtf09wb8nt5.cloudfront.net/scale/oil/freetv/upload/live/3520308/images/10377999_1683026785094?dstw=500&dsth=500" group-title="Children",FOMO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PxQclCyD6Y7xL+dKZLnDDg","kid":"9lTrut1+42HFz8QLqzbOWQ"}],"type":"temporary"}
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/fomo/live.livx
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3461da_2c81c38966924041bb0e9d036b7804dc~mv2.png" group-title="Children",Moonbug (BIGI)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct","k":"g6gvkqpfgFnMAGdpbkG5jg","kid":"QpN1arWLQLaiZ1tCcv644Q"}],"type":"temporary"}
+https://e087512ad0c32643.mediapackage.eu-west-1.amazonaws.com/out/v1/2f6e4f9ddba44ff48aa2941de1ea27bd/index.mpd
