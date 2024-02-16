@@ -13,10 +13,8 @@ https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/4/streamPla
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
 
-#EXTINF:-1 tvg-country="FR" tvg-id="France 2" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source-1)
-http://livetv.ktv.zone/4/play.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-id="France 2" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2 (Source-2)
-https://s12.tntendirect.com/france2/live/chunks.m3u8
+#EXTINF:-1 tvg-country="FR" tvg-id="France 2" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2
+https://origin-fra01.pzaz.tv/live/france-2-hd/tracks-v3a1/mono.m3u8?token=6603992-fafe6805-5c6d-4e19-9f46-a9d2e1a4770d
 
 #EXTINF:-1 tvg-country="FR" tvg-id="France 3" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 (Source-1)
 http://livetv.ktv.zone/5/play.m3u8
