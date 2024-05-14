@@ -12,8 +12,6 @@ https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/4/streamPla
 #EXTINF:-1 tvg-country="IL" tvg-id="Shopping Channel" group-title="Israel",IL | Shopping Channel
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="VIP FR: TF1 UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: TF1 UHD 4K
 http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/29091
 #EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Arte UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: Arte UHD 4K
@@ -1026,7 +1024,6 @@ http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2771
 http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/9935
 #EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9 HD" tvg-logo="[" group-title="Live: France",FR: W9 HD
 http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/362
-
 
 #EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe FHD
 https://raw.githubusercontent.com/yonatand1230/tv/master/tv5-fhd.m3u8
