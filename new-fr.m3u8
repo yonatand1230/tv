@@ -13,31 +13,1019 @@ https://ch14-channel14.akamaized.net/hls/live/2097589/CH14_CHANNEL14/4/streamPla
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
 
-#EXTINF:-1 tvg-country="FR" tvg-id="France 2" tvg-logo="https://www.netclipart.com/pp/m/250-2505790_france-2-logo-france-2-png.png" group-title="France",FR | France 2
-https://origin-fra01.pzaz.tv/live/france-2-hd/tracks-v3a1/mono.m3u8?token=6603992-fafe6805-5c6d-4e19-9f46-a9d2e1a4770d
 
-#EXTINF:-1 tvg-country="FR" tvg-id="France 3" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 (Source-1)
-http://livetv.ktv.zone/5/play.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-id="France 3" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6840.1517257103.png" group-title="France",FR | France 3 (Source-2)
-https://s12.tntendirect.com/france3/live/chunks.m3u8
-
-
-#EXTINF:-1 tvg-country="FR" tvg-id="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5 (Source-1)
-http://livetv.ktv.zone/7/play.m3u8
-#EXTINF:-1 tvg-country="FR" tvg-id="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="France",FR | France 5 (Source-2)
-https://s12.tntendirect.com/france5/live/chunks.m3u8
-
-#EXTINF:-1 tvg-country="FR" tvg-id="ARTE" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="France",FR | ARTE (Source-1)
-http://livetv.ktv.zone/9/play.m3u8
-
-#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-1)
-https://www.youtube.com/watch?v=gxG3pdKvlIs
-#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-2)
-http://81.94.196.204/tsstreamer/France24_HD.ts
-#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-3)
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/880
-#EXTINF:-1 tvg-country="FR" tvg-id="FRANCE 24 F" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="France",FR | France 24 (Source-4)
-http://181.189.243.254:8000/play/a0pu/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: TF1 UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: TF1 UHD 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/29091
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Arte UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: Arte UHD 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162798
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ UHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ UHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/99793
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Foot 4K UHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Foot 4K UHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/125950
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Box Office 4K UHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Box Office 4K UHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/159460
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Evenment UHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Evenment UHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/99792
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ LDC UHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ LDC UHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/99791
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ H265" tvg-logo="[" group-title="Live: France",VIP FR: Canal+ H265
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19212
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Sport HD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Sport HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/50954
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Sport H265" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Sport H265
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/50886
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Sport 360 FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Sport 360 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/120096
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Sport 360 HD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Sport 360 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/119413
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Foot FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Foot FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/120097
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Canal+ Foot HD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Foot HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/119412
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Ligue 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Ligue 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/50961
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Ligue 1 H265" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Ligue 1 H265
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/50962
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Premier League FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Premier League FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/50963
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Formula1 FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Formula1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/72453
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Moto GP FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Moto GP FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/72452
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Canal+ Top14 Rugby FHD" tvg-logo="" group-title="Live: France",VIP FR: Canal+ Top14 Rugby FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/72454
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79960
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163830
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163831
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 3 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163832
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 4 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163833
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 5 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163834
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 6 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 6 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163835
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 7 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 7 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163836
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 8 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 8 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163837
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 9 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 9 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163838
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DAZN Event 10 FHD" tvg-logo="" group-title="Live: France",VIP FR: DAZN Event 10 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/163839
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 1 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 1 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164377
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 2 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 2 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164378
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 3 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 3 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164379
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 4 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 4 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164380
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 5 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 5 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164381
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 6 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 6 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164382
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 7 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 7 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164383
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 8 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 8 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164384
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 9 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 9 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164385
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 10 4K" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 10 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/164386
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime FHD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79955
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79946
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 1 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79897
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 2 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 2 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79898
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 2 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 2 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80395
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 3 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 3 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79899
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 3 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 3 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80396
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 4 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 4 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79900
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 4 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 4 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80397
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 5 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 5 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79901
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 5 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 5 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80398
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 6 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 6 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79902
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 6 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 6 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80399
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 7 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 7 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79903
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 7 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 7 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80400
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 8 HD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 8 HD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/79904
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Prime 8 FHD [Live During Events Only]" tvg-logo="" group-title="Live: France",VIP FR: Amazon Prime 8 FHD [Live During Events Only]
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/80401
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 1 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88826
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 2 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88827
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 3 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88828
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 4 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 4 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88829
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 5 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 5 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88830
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 6 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 6 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88831
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 7 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 7 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88832
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Amazon Ligue Deux 8 HD" tvg-logo="" group-title="Live: France",VIP FR: Amazon Ligue Deux 8 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/88833
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BEINSPORT 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63166
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="VIP FR: BEINSPORT 1 HD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/14901
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BEINSPORT 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63167
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="VIP FR: BEINSPORT 2 HD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/14902
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: BEINSPORT 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT 3 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63168
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="VIP FR: BEINSPORT 3 HD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/14903
+#EXTINF:-1 tvg-ID="BeInSportMax4.fr" tvg-name="VIP FR: BEINSPORT MAX 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 4 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23106
+#EXTINF:-1 tvg-ID="BeInSportMax5.fr" tvg-name="VIP FR: BEINSPORT MAX 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 5 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23142
+#EXTINF:-1 tvg-ID="BeInSportMax6.fr" tvg-name="VIP FR: BEINSPORT MAX 6 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 6 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23141
+#EXTINF:-1 tvg-ID="BeInSportMax7.fr" tvg-name="VIP FR: BEINSPORT MAX 7 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 7 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23140
+#EXTINF:-1 tvg-ID="BeInSportMax8.fr" tvg-name="VIP FR: BEINSPORT MAX 8 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 8 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23139
+#EXTINF:-1 tvg-ID="BeInSportMax9.fr" tvg-name="VIP FR: BEINSPORT MAX 9 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 9 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23138
+#EXTINF:-1 tvg-ID="BeInSportMax10.fr" tvg-name="VIP FR: BEINSPORT MAX 10 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 10 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23137
+#EXTINF:-1 tvg-ID="RMC Sport 1 FR" tvg-name="VIP FR: RMC SPORT UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT UHD 4K
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/29093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC SPORT 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23126
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="VIP FR: RMC SPORT 1 HD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7285
+#EXTINF:-1 tvg-ID="RMCSportAccess1.fr" tvg-name="VIP FR: RMC SPORT Accees 1 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19425
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23125
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7286
+#EXTINF:-1 tvg-ID="RMCSportAccess2.fr" tvg-name="VIP FR: RMC SPORT Accees 2 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23795
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="VIP FR: RMC SPORT 3 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7427
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="VIP FR: RMC SPORT 4 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 4 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7504
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="VIP FR: RMC Sport 3 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 3 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23124
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="VIP FR: RMC Sport 4 HD Live" tvg-logo="" group-title="Live: France",VIP FR: RMC Sport 4 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23123
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 5 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 5 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19366
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 6 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 6 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19365
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 7 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 7 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19364
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 8 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 8 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19363
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 9 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 9 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19362
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 10 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 10 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19361
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 11 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 11 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19360
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 12 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 12 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/19359
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 13 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 13 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20383
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 14 HD Live" tvg-logo="" group-title="Live: France",VIP FR: RMC Sport 14 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/151079
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 15 HD Live" tvg-logo="" group-title="Live: France",VIP FR: RMC Sport 15 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/151078
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 16 HD Live" tvg-logo="" group-title="Live: France",VIP FR: RMC Sport 16 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/151077
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 17 HD Live" tvg-logo="" group-title="Live: France",VIP FR: RMC Sport 17 HD Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/151076
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: MULTISPORTS 1HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 1HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18657
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MULTISPORTS 2HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 2HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63169
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MULTISPORTS 3HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 3HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MULTISPORTS 4HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 4HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MULTISPORTS 5HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 5HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63172
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MULTISPORTS 6HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 6HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/63173
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Sport France FHD" tvg-logo="" group-title="Live: France",VIP FR: Sport France FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/27953
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Journal Du Golf FHD" tvg-logo="" group-title="Live: France",VIP FR: Journal Du Golf FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162799
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Top Santé FHD" tvg-logo="" group-title="Live: France",VIP FR: Top Santé FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162800
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK 24/7 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK 24/7 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162801
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162802
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162803
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 3 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162804
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 4 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162805
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 5 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162806
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 6 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 6 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162807
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SKWEEK EVENT 7 FHD" tvg-logo="" group-title="Live: France",VIP FR: SKWEEK EVENT 7 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162808
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: 13eme Rue FHD" tvg-logo="" group-title="Live: France",VIP FR: 13eme Rue FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23177
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="VIP FR: 6ter FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: 6ter FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20473
+#EXTINF:-1 tvg-ID="Aplus International FR" tvg-name="VIP FR: A+ FHD" tvg-logo="" group-title="Live: France",VIP FR: A+ FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16095
+#EXTINF:-1 tvg-ID="AB1 HD FR" tvg-name="VIP FR: AB1 FHD" tvg-logo="" group-title="Live: France",VIP FR: AB1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20463
+#EXTINF:-1 tvg-ID="ab3.be" tvg-name="VIP FR: AB3 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: AB3 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20462
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: AB_EXPLORE FHD" tvg-logo="" group-title="Live: France",VIP FR: AB_EXPLORE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23134
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Action FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Action FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20474
+#EXTINF:-1 tvg-ID="Altice Studio FR" tvg-name="VIP FR: Tech & Co FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Tech & Co FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18643
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: ANIMAUX FHD" tvg-logo="[" group-title="Live: France",VIP FR: ANIMAUX FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20447
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Arte FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Arte FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20461
+#EXTINF:-1 tvg-ID="Be Curious TV FR" tvg-name="VIP FR: MUSEUM CHANNEL FHD" tvg-logo="" group-title="Live: France",VIP FR: MUSEUM CHANNEL FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16096
+#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="VIP FR: BET* FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: BET* FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18638
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Boing FHD" tvg-logo="" group-title="Live: France",VIP FR: Boing FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23160
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Boomerang FHD" tvg-logo="" group-title="Live: France",VIP FR: Boomerang FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20450
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: BRAVA FHD" tvg-logo="" group-title="Live: France",VIP FR: BRAVA FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23131
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM TV FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM TV FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162822
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM ALPE SUD FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM ALPE SUD FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162830
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM ALSACE FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM ALSACE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162829
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM Business FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM Business FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162823
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM Grand Lille FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM Grand Lille FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162827
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM Lyon FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM Lyon FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162826
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM Marseille FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM Marseille FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162828
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM Paris FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM Paris FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162825
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BFM Tech & Co FHD" tvg-logo="" group-title="Live: France",VIP FR: BFM Tech & Co FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162824
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="VIP FR: C Star FHD" tvg-logo="[" group-title="Live: France",VIP FR: C Star FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20471
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="VIP FR: C8 FHD" tvg-logo="" group-title="Live: France",VIP FR: C8 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20472
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANAL+ BOX OFFICE HD" tvg-logo="" group-title="Live: France",VIP FR: CANAL+ BOX OFFICE HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/151035
+#EXTINF:-1 tvg-ID="RMCSportAccess3.fr" tvg-name="VIP FR: CANAL+ GRAND ECRAN FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: CANAL+ GRAND ECRAN FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23794
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="VIP FR: CANAL+ FHD" tvg-logo="[" group-title="Live: France",VIP FR: CANAL+ FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20470
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL+ CINEMA FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL+ CINEMA FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23173
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL+ DECALE FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL+ DECALE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23172
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL+ KIDS FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL+ KIDS FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANAL+ DOCS FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: CANAL+ DOCS FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20384
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL+ SERIES FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL+ SERIES FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23169
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="VIP FR: CANAL+ SPORT FHD" tvg-logo="[" group-title="Live: France",VIP FR: CANAL+ SPORT FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20469
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL ALPHA JU FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL ALPHA JU FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23170
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL J FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL J FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23161
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Cartoon Network FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Cartoon Network FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20452
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Cherie 25 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Cherie 25 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20448
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="VIP FR: Cine+ Premier FHD" tvg-logo="[" group-title="Live: France",VIP FR: Cine+ Premier FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20468
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Classic FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Classic FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23163
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Club FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Club FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23164
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Emotion FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Emotion FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23165
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Famiz FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Famiz FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23166
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Frisson FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Frisson FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23167
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine POLAR FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine POLAR FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23168
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Comedie  FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Comedie  FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20459
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Crime District FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Crime District FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23157
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CSTAR Hite France FHD" tvg-logo="" group-title="Live: France",VIP FR: CSTAR Hite France FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23174
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: D24 FHD" tvg-logo="" group-title="Live: France",VIP FR: D24 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18656
+#EXTINF:-1 tvg-ID="DiscoveryFamily.fr" tvg-name="VIP FR: Discovery Family FHD" tvg-logo="[" group-title="Live: France",VIP FR: Discovery Family FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16098
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: DISCOVERY FHD" tvg-logo="" group-title="Live: France",VIP FR: DISCOVERY FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23148
+#EXTINF:-1 tvg-ID="Discovery Investigation FR" tvg-name="VIP FR: Discovery ID FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Discovery ID FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18639
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Discovery Science FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Discovery Science FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23147
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Disney Channel FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Disney Channel FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20457
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Disney Cinema FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Disney Cinema FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20451
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: DISNEY JUNIOR FHD" tvg-logo="" group-title="Live: France",VIP FR: DISNEY JUNIOR FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23158
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TLC FHD" tvg-logo="" group-title="Live: France",VIP FR: TLC FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23162
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Monaco Info" tvg-logo="" group-title="Live: France",VIP FR: Monaco Info
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23151
+#EXTINF:-1 tvg-ID="ES1.fr" tvg-name="VIP FR: ES1 HD" tvg-logo="" group-title="Live: France",VIP FR: ES1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18662
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: EQUIDIA LIVE FHD" tvg-logo="" group-title="Live: France",VIP FR: EQUIDIA LIVE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20437
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74095
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74096
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 1" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 1
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74085
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 2" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 2
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74086
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 3" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 3
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74087
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 4" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 4
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74088
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 5" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 5
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74089
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 6" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 6
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74090
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 7" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 7
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74091
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: EUROSPORT 360 8" tvg-logo="" group-title="Live: France",VIP FR: EUROSPORT 360 8
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/74092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: FASHION FHD" tvg-logo="" group-title="Live: France",VIP FR: FASHION FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18649
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="VIP FR: France 2 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: France 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20483
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="VIP FR: France 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20482
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="VIP FR: France 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: France 4 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20481
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: France 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: France 5 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20480
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: France 3 NOA FHD" tvg-logo="[" group-title="Live: France",VIP FR: France 3 NOA FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20479
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Alsace FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Alsace FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162819
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Aquitaine FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Aquitaine FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162810
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Bourgogne FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Bourgogne FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162813
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Bretagne FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Bretagne FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162812
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Centre FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Centre FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162818
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Champagne-Ardennes FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Champagne-Ardennes FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162815
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Corse Via Stella FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Corse Via Stella FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162816
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Normandie FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Normandie FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162814
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Paris Ile-de-France FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Paris Ile-de-France FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162817
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Picardie FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Picardie FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162820
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Provence-Alpes FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Provence-Alpes FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162821
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France 3 Rhone Alpes FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 Rhone Alpes FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162809
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: France Auvergne FHD" tvg-logo="" group-title="Live: France",VIP FR: France Auvergne FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/162811
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: GAME ONE FHD" tvg-logo="" group-title="Live: France",VIP FR: GAME ONE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23153
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Golf Channel FHD" tvg-logo="" group-title="Live: France",VIP FR: Golf Channel FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23145
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Gulli FHD" tvg-logo="" group-title="Live: France",VIP FR: Gulli FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23152
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: INFOSPORT  FHD" tvg-logo="[" group-title="Live: France",VIP FR: INFOSPORT  FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20433
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: J-ONE FHD" tvg-logo="" group-title="Live: France",VIP FR: J-ONE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20449
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Olympia TV FHD" tvg-logo="" group-title="Live: France",VIP FR: Olympia TV FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23128
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: LUXE FHD" tvg-logo="" group-title="Live: France",VIP FR: LUXE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16100
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="VIP FR: M6 FHD" tvg-logo="" group-title="Live: France",VIP FR: M6 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20478
+#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="VIP FR: Manga FHD" tvg-logo="" group-title="Live: France",VIP FR: Manga FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20453
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: MEZZO LIVE FHD" tvg-logo="" group-title="Live: France",VIP FR: MEZZO LIVE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23143
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: MOTORSPORT TV FHD" tvg-logo="" group-title="Live: France",VIP FR: MOTORSPORT TV FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23136
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Lucky Jack TV" tvg-logo="" group-title="Live: France",VIP FR: Lucky Jack TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23132
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MTV France FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: MTV France FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20460
+#EXTINF:-1 tvg-ID="My Cuisine FR" tvg-name="VIP FR: Culture Box FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Culture Box FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: MY ZEN FHD" tvg-logo="" group-title="Live: France",VIP FR: MY ZEN FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16101
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: NATIONA GEO FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: NATIONA GEO FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20441
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: NATIONAL GEO WILD FHD" tvg-logo="" group-title="Live: France",VIP FR: NATIONAL GEO WILD FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23150
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Nautical Channel FHD" tvg-logo="" group-title="Live: France",VIP FR: Nautical Channel FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23129
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="VIP FR: NOVELAS FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: NOVELAS FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18663
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: NRJ_12 FHD" tvg-logo="" group-title="Live: France",VIP FR: NRJ_12 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20434
+#EXTINF:-1 tvg-ID="OrangeCinechoc.fr" tvg-name="VIP FR: OCS CHOC FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS CHOC FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20464
+#EXTINF:-1 tvg-ID="OrangeCineHappy.fr" tvg-name="VIP FR: OCS City FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS City FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20465
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS GEANT FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS GEANT FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20466
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Max FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS Max FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20467
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OL TV FHD" tvg-logo="" group-title="Live: France",VIP FR: OL TV FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23135
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: One TV FHD" tvg-logo="" group-title="Live: France",VIP FR: One TV FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23159
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Obosso FHD" tvg-logo="" group-title="Live: France",VIP FR: Obosso FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18658
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="Live: France",VIP FR: PARAMOUNT CHANNEL FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23149
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: PARIS PREMIERE FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: PARIS PREMIERE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20439
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Piwi FHD" tvg-logo="" group-title="Live: France",VIP FR: Piwi FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23154
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: PLANETE  A&E FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: PLANETE  A&E FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20442
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: PLANETE  CI FHD" tvg-logo="" group-title="Live: France",VIP FR: PLANETE  CI FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20443
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Planete  FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Planete  FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20444
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Decouvert FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC Decouvert FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20445
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Story FHD" tvg-logo="[" group-title="Live: France",VIP FR: RMC Story FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20436
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="VIP FR: RTL9 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: RTL9 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20476
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Science et Vie FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Science et Vie FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20438
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: SEASON FHD" tvg-logo="" group-title="Live: France",VIP FR: SEASON FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20440
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SERIE CLUB FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: SERIE CLUB FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20454
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: SUNDANCE FHD" tvg-logo="" group-title="Live: France",VIP FR: SUNDANCE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23127
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Syfy FHD" tvg-logo="" group-title="Live: France",VIP FR: Syfy FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23175
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TCM Cinema FHD" tvg-logo="" group-title="Live: France",VIP FR: TCM Cinema FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23156
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="VIP FR: TEVA FHD" tvg-logo="" group-title="Live: France",VIP FR: TEVA FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20475
+#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="VIP FR: TF1 FHD" tvg-logo="" group-title="Live: France",VIP FR: TF1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/11372
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TF1 +1 FHD" tvg-logo="" group-title="Live: France",VIP FR: TF1 +1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23133
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TF1 SERIES FILMS FHD" tvg-logo="" group-title="Live: France",VIP FR: TF1 SERIES FILMS FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23178
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TFX FHD" tvg-logo="" group-title="Live: France",VIP FR: TFX FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23144
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TIJI FHD" tvg-logo="" group-title="Live: France",VIP FR: TIJI FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23155
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="VIP FR: TMC FHD" tvg-logo="" group-title="Live: France",VIP FR: TMC FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20455
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TMC +1 FHD" tvg-logo="" group-title="Live: France",VIP FR: TMC +1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23130
+#EXTINF:-1 tvg-ID="Toonami FR" tvg-name="VIP FR: Toonami FHD" tvg-logo="" group-title="Live: France",VIP FR: Toonami FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16105
+#EXTINF:-1 tvg-ID="TraceSport.fr" tvg-name="VIP FR: Trace Sport Stars HD" tvg-logo="" group-title="Live: France",VIP FR: Trace Sport Stars HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TREK FHD" tvg-logo="" group-title="Live: France",VIP FR: TREK FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23176
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TV5 MONDE FHD" tvg-logo="" group-title="Live: France",VIP FR: TV5 MONDE FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/23146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TVBREIZH FHD" tvg-logo="" group-title="Live: France",VIP FR: TVBREIZH FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20446
+#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="VIP FR: Ushuaia TV FHD" tvg-logo="" group-title="Live: France",VIP FR: Ushuaia TV FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20458
+#EXTINF:-1 tvg-ID="Viceland FR" tvg-name="VIP FR: VICELAND FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: VICELAND FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16103
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="VIP FR: W9 FHD" tvg-logo="" group-title="Live: France",VIP FR: W9 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/20477
+#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="VIP FR: WARNER FHD" tvg-logo="[" group-title="Live: France",VIP FR: WARNER FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18644
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Vitrine CanalPlay Live" tvg-logo="" group-title="Live: France",VIP FR: Vitrine CanalPlay Live
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 1 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 1 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35101
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 2 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 2 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 3 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 3 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 4 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 4 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 5 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 5 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 6 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 6 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35106
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 7 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 7 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35107
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 8 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 8 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35108
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 9 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 9 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35109
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 10 FHD (Audio-Description)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 10 FHD (Audio-Description)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35110
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 11 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 11 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35111
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 12 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 12 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35112
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 13 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 13 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35113
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 14 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 14 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35114
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 15 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 15 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35115
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 16 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 16 FHD (MultiAudio)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35116
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 17 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 17 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35117
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY 18 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 18 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35118
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY MULTIVISION 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY MULTIVISION 1 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35119
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY MULTIVISION 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY MULTIVISION 2 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35120
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANALPLAY MULTIVISION 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY MULTIVISION 3 FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/35121
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 1 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28888
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 2 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28887
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 3 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28886
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 4 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 4 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28885
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Movies 5 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 5 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28884
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: OCS Go Cinema 1 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28883
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: OCS Go Cinema 2 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28882
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Go Cinema 3 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28881
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: OCS Go Cinema 4 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 4 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28880
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: OCS Go Cinema 5 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 5 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28879
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 1 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28878
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Orange Cinema 2 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28877
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 3 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28876
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 4 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 4 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28875
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Orange Cinema 5 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 5 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28874
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Orange Cinema 6 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 6 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28873
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema Action HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema Action HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28872
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema Aventure HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema Aventure HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28871
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema CEst Fait HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema CEst Fait HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28870
+#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/28869
+#EXTINF:-1 tvg-ID="13eme Rue HD FR" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="Live: France",FR: 13EME RUE HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3759
+#EXTINF:-1 tvg-ID="6ter FR" tvg-name="FR: 6 TER HD" tvg-logo="" group-title="Live: France",FR: 6 TER HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12013
+#EXTINF:-1 tvg-ID="6ter FR" tvg-name="FR: 6TER HD" tvg-logo="" group-title="Live: France",FR: 6TER HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2608
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 1" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 1
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3345
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 10" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 10
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3354
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 2" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 2
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3346
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 3" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 3
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3347
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 4" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 4
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3348
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 5" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 5
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3349
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 6" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 6
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3350
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 7" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 7
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3351
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 8" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 8
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3352
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 9" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 9
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3353
+#EXTINF:-1 tvg-ID="AB1 HD FR" tvg-name="FR: AB 1" tvg-logo="" group-title="Live: France",FR: AB 1
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/10356
+#EXTINF:-1 tvg-ID="Action FR" tvg-name="FR: ACTION HD" tvg-logo="" group-title="Live: France",FR: ACTION HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/349
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Alsace TV HD" tvg-logo="" group-title="Live: France",FR: Alsace TV HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34926
+#EXTINF:-1 tvg-ID="Animaux FR" tvg-name="FR: Animaux HD" tvg-logo="" group-title="Live: France",FR: Animaux HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/642
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Antenne Reunion" tvg-logo="" group-title="Live: France",FR: Antenne Reunion
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34936
+#EXTINF:-1 tvg-ID="Arte FR" tvg-name="FR: ARTE HD" tvg-logo="" group-title="Live: France",FR: ARTE HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1072
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Baby HD" tvg-logo="[""]" group-title="Live: France",FR: Baby HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12526
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BBLACK AFRICA" tvg-logo="" group-title="Live: France",FR: BBLACK AFRICA
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18641
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BBLACK Classic" tvg-logo="" group-title="Live: France",FR: BBLACK Classic
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18642
+#EXTINF:-1 tvg-ID="" tvg-name="FR: L'equipe Live 2 HD" tvg-logo="" group-title="Live: France",FR: L'equipe Live 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34930
+#EXTINF:-1 tvg-ID="Be Curious TV FR" tvg-name="FR: MDL HD" tvg-logo="" group-title="Live: France",FR: MDL HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2607
+#EXTINF:-1 tvg-ID="beIN SPORTS 1 FR" tvg-name="FR: BEINSPORT 1HD" tvg-logo="[" group-title="Live: France",FR: BEINSPORT 1HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/14140
+#EXTINF:-1 tvg-ID="beIN SPORTS 2 FR" tvg-name="FR: BEINSPORT 2HD" tvg-logo="[""]" group-title="Live: France",FR: BEINSPORT 2HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/347
+#EXTINF:-1 tvg-ID="beIN SPORTS 3 FR" tvg-name="FR: BEINSPORT 3HD" tvg-logo="" group-title="Live: France",FR: BEINSPORT 3HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/346
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 10 FR" tvg-name="FR: BEINSPORT MAX 10" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 10
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2521
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 4 FR" tvg-name="FR: BEINSPORT MAX 4" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 4
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2515
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 5 FR" tvg-name="FR: BEINSPORT MAX 5" tvg-logo="" group-title="Live: France",FR: BEINSPORT MAX 5
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2516
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 6 FR" tvg-name="FR: BEINSPORT MAX 6" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 6
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2517
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 7 FR" tvg-name="FR: BEINSPORT MAX 7" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 7
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2518
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 8 FR" tvg-name="FR: BEINSPORT MAX 8" tvg-logo="" group-title="Live: France",FR: BEINSPORT MAX 8
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2519
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 9 FR" tvg-name="FR: BEINSPORT MAX 9" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 9
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2520
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE JEUNESSE" tvg-logo="" group-title="Live: France",FR: BERBERE JEUNESSE
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16438
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE MUSIC" tvg-logo="" group-title="Live: France",FR: BERBERE MUSIC
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16439
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE TELEVISION" tvg-logo="" group-title="Live: France",FR: BERBERE TELEVISION
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3778
+#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="FR: BET HD" tvg-logo="[" group-title="Live: France",FR: BET HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2620
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BFM Business TV" tvg-logo="" group-title="Live: France",FR: BFM Business TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18640
+#EXTINF:-1 tvg-ID="Gong FR" tvg-name="FR: BFM Lyon" tvg-logo="" group-title="Live: France",FR: BFM Lyon
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12525
+#EXTINF:-1 tvg-ID="BFM Sport FR" tvg-name="FR: BFM Paris HD" tvg-logo="" group-title="Live: France",FR: BFM Paris HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3780
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="FR: BFM TV" tvg-logo="" group-title="Live: France",FR: BFM TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2763
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BIP TV (Berry Issoudun Premiere)" tvg-logo="" group-title="Live: France",FR: BIP TV (Berry Issoudun Premiere)
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34923
+#EXTINF:-1 tvg-ID="Boing FR" tvg-name="FR: BOING" tvg-logo="[" group-title="Live: France",FR: BOING
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2623
+#EXTINF:-1 tvg-ID="Boomerang FR" tvg-name="FR: Boomerang" tvg-logo="" group-title="Live: France",FR: Boomerang
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2622
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BRAVA HD" tvg-logo="[""]" group-title="Live: France",FR: BRAVA HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18648
+#EXTINF:-1 tvg-ID="TvBreizh FR" tvg-name="FR: BREIZH TV" tvg-logo="" group-title="Live: France",FR: BREIZH TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2609
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 1 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42802
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 2 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 2 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42803
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 3 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 3 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42804
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 4 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 4 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42805
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 5 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 5 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42806
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 6 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 6 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42807
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 7 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 7 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42808
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 8 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 8 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42809
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 9 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 9 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/42810
+#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="FR: C NEWS HD" tvg-logo="" group-title="Live: France",FR: C NEWS HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16097
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: C news SD" tvg-logo="" group-title="Live: France",FR: C news SD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1069
+#EXTINF:-1 tvg-ID="Canal Star FR" tvg-name="FR: C star HD" tvg-logo="[" group-title="Live: France",FR: C star HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2764
+#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="FR: C8 HD" tvg-logo="" group-title="Live: France",FR: C8 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2765
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Alpha" tvg-logo="" group-title="Live: France",FR: Canal Alpha
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12528
+#EXTINF:-1 tvg-ID="Canal J FR" tvg-name="FR: CANAL J" tvg-logo="" group-title="Live: France",FR: CANAL J
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2619
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 1" tvg-logo="" group-title="Live: France",FR: Canal Play 1
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2614
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 2" tvg-logo="" group-title="Live: France",FR: Canal Play 2
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2615
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 3" tvg-logo="" group-title="Live: France",FR: Canal Play 3
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2616
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 4" tvg-logo="" group-title="Live: France",FR: Canal Play 4
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2617
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 5" tvg-logo="" group-title="Live: France",FR: Canal Play 5
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2618
+#EXTINF:-1 tvg-ID="CANALPlus Cinema FR" tvg-name="FR: CANAL+ CINEMA" tvg-logo="[" group-title="Live: France",FR: CANAL+ CINEMA
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/5897
+#EXTINF:-1 tvg-ID="CANALPlus Decale FR" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="Live: France",FR: CANAL+ DECALE
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/359
+#EXTINF:-1 tvg-ID="CANALPlus Family FR" tvg-name="FR: CANAL+ KIDS" tvg-logo="[" group-title="Live: France",FR: CANAL+ KIDS
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/358
+#EXTINF:-1 tvg-ID="CANALPlus FR" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="Live: France",FR: CANAL+ HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/361
+#EXTINF:-1 tvg-ID="CANALPlus Series FR" tvg-name="FR: CANAL+ SERIES" tvg-logo="[" group-title="Live: France",FR: CANAL+ SERIES
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/357
+#EXTINF:-1 tvg-ID="CANALPlus Sport FR" tvg-name="FR: CANAL+ SPORT" tvg-logo="" group-title="Live: France",FR: CANAL+ SPORT
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/356
+#EXTINF:-1 tvg-ID="Cartoon Network FR" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="Live: France",FR: Cartoon Network
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2621
+#EXTINF:-1 tvg-ID="Chasse et peche FR" tvg-name="FR: Chasse & Peche" tvg-logo="[" group-title="Live: France",FR: Chasse & Peche
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12522
+#EXTINF:-1 tvg-ID="Cherie 25 FR" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="Live: France",FR: CHERIE 25 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3761
+#EXTINF:-1 tvg-ID="CinePlus Club HD FR" tvg-name="FR: CINE CLUB" tvg-logo="" group-title="Live: France",FR: CINE CLUB
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12523
+#EXTINF:-1 tvg-ID="CinePlus Classic FR" tvg-name="FR: CINE+ CLASSIC" tvg-logo="[" group-title="Live: France",FR: CINE+ CLASSIC
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2612
+#EXTINF:-1 tvg-ID="CinePlus Emotion HD FR" tvg-name="FR: CINE+ EMOTION" tvg-logo="[""]" group-title="Live: France",FR: CINE+ EMOTION
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/352
+#EXTINF:-1 tvg-ID="CinePlus Famiz HD FR" tvg-name="FR: CINE+ FAMIZ" tvg-logo="[" group-title="Live: France",FR: CINE+ FAMIZ
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2611
+#EXTINF:-1 tvg-ID="CinePlus Frisson HD FR" tvg-name="FR: CINE+ FRISSON" tvg-logo="[" group-title="Live: France",FR: CINE+ FRISSON
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/351
+#EXTINF:-1 tvg-ID="Cine Polar FR" tvg-name="FR: CINE+ POLAR" tvg-logo="" group-title="Live: France",FR: CINE+ POLAR
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2610
+#EXTINF:-1 tvg-ID="CinePlus Premier HD FR" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="Live: France",FR: CINE+ PREMIER
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/350
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Clubbing TV" tvg-logo="" group-title="Live: France",FR: Clubbing TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12529
+#EXTINF:-1 tvg-ID="ComediePlus FR" tvg-name="FR: Comedie+ HD" tvg-logo="" group-title="Live: France",FR: Comedie+ HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2604
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CPAC HD" tvg-logo="" group-title="Live: France",FR: CPAC HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34929
+#EXTINF:-1 tvg-ID="Discovery Channel FR" tvg-name="FR: DISCOVERY" tvg-logo="" group-title="Live: France",FR: DISCOVERY
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/355
+#EXTINF:-1 tvg-ID="Discovery Science FR" tvg-name="FR: Discovery Science HD" tvg-logo="" group-title="Live: France",FR: Discovery Science HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/646
+#EXTINF:-1 tvg-ID="Disney Channel FR" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="Live: France",FR: Disney Channel HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/645
+#EXTINF:-1 tvg-ID="Disney Cinema HD FR" tvg-name="FR: DISNEY CINEMAGIC HD" tvg-logo="" group-title="Live: France",FR: DISNEY CINEMAGIC HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3763
+#EXTINF:-1 tvg-ID="Disney Junior FR" tvg-name="FR: Disney Junior" tvg-logo="[" group-title="Live: France",FR: Disney Junior
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2624
+#EXTINF:-1 tvg-ID="Disney XD FR" tvg-name="FR: DISNEY XD HD" tvg-logo="" group-title="Live: France",FR: DISNEY XD HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3764
+#EXTINF:-1 tvg-ID="E! FR" tvg-name="FR: E! HD" tvg-logo="" group-title="Live: France",FR: E! HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7684
+#EXTINF:-1 tvg-ID="ElleGirl FR" tvg-name="FR: Euro Channel FHD" tvg-logo="" group-title="Live: France",FR: Euro Channel FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16099
+#EXTINF:-1 tvg-ID="Equidia Live HD FR" tvg-name="FR: EQUIDIA LIVE" tvg-logo="" group-title="Live: France",FR: EQUIDIA LIVE
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3771
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: EURONEWS" tvg-logo="" group-title="Live: France",FR: EURONEWS
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/8255
+#EXTINF:-1 tvg-ID="Eurosport 1 FR" tvg-name="FR: EUROSPORT 1HD" tvg-logo="" group-title="Live: France",FR: EUROSPORT 1HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/345
+#EXTINF:-1 tvg-ID="Eurosport 2 FR" tvg-name="FR: EUROSPORT 2HD" tvg-logo="" group-title="Live: France",FR: EUROSPORT 2HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/344
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Extreme Sport HD" tvg-logo="" group-title="Live: France",FR: Extreme Sport HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18655
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EMCI FHD" tvg-logo="" group-title="Live: France",FR: EMCI FHD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34928
+#EXTINF:-1 tvg-ID="FootPlus 2424 FR" tvg-name="FR: FOOT+24 HD" tvg-logo="[" group-title="Live: France",FR: FOOT+24 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1244
+#EXTINF:-1 tvg-ID="France 2 FR" tvg-name="FR: FRANCE 2" tvg-logo="" group-title="Live: France",FR: FRANCE 2
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/370
+#EXTINF:-1 tvg-ID="France 24 FR" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="Live: France",FR: FRANCE 24
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7867
+#EXTINF:-1 tvg-ID="France 3 FR" tvg-name="FR: FRANCE 3" tvg-logo="" group-title="Live: France",FR: FRANCE 3
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/369
+#EXTINF:-1 tvg-ID="NT1 FR" tvg-name="FR: France 3 NOA HD" tvg-logo="" group-title="Live: France",FR: France 3 NOA HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/340
+#EXTINF:-1 tvg-ID="France 4 FR" tvg-name="FR: FRANCE 4" tvg-logo="" group-title="Live: France",FR: FRANCE 4
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/368
+#EXTINF:-1 tvg-ID="France 5 FR" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="Live: France",FR: FRANCE 5
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/367
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: France Info HD" tvg-logo="" group-title="Live: France",FR: France Info HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34939
+#EXTINF:-1 tvg-ID="France O FR" tvg-name="FR: FRANCE Info" tvg-logo="" group-title="Live: France",FR: FRANCE Info
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/366
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Francophonie 24" tvg-logo="" group-title="Live: France",FR: Francophonie 24
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34932
+#EXTINF:-1 tvg-ID="Game One FR" tvg-name="FR: Game One" tvg-logo="" group-title="Live: France",FR: Game One
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/9113
+#EXTINF:-1 tvg-ID="Golf Channel FR" tvg-name="FR: GOLF Channel HD" tvg-logo="[" group-title="Live: France",FR: GOLF Channel HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/16109
+#EXTINF:-1 tvg-ID="GolfPlus FR" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="Live: France",FR: GOLF+ HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7834
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: GongMax" tvg-logo="" group-title="Live: France",FR: GongMax
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18667
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: GRAND LILLE" tvg-logo="" group-title="Live: France",FR: GRAND LILLE
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18660
+#EXTINF:-1 tvg-ID="Gulli FR" tvg-name="FR: Gulli" tvg-logo="" group-title="Live: France",FR: Gulli
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2625
+#EXTINF:-1 tvg-ID="HD1 FR" tvg-name="FR: MTV 00's" tvg-logo="" group-title="Live: France",FR: MTV 00's
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2766
+#EXTINF:-1 tvg-ID="Histoire FR" tvg-name="FR: Histoire" tvg-logo="" group-title="Live: France",FR: Histoire
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1070
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: i24 News" tvg-logo="" group-title="Live: France",FR: i24 News
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/9015
+#EXTINF:-1 tvg-ID="" tvg-name="FR: IL TV" tvg-logo="" group-title="Live: France",FR: IL TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18636
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ILTV" tvg-logo="" group-title="Live: France",FR: ILTV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34937
+#EXTINF:-1 tvg-ID="InfosportPlus FR" tvg-name="FR: InfoSport+ HD" tvg-logo="[" group-title="Live: France",FR: InfoSport+ HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/342
+#EXTINF:-1 tvg-ID="J-One FR" tvg-name="FR: J-ONE HD" tvg-logo="[" group-title="Live: France",FR: J-ONE HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3779
+#EXTINF:-1 tvg-ID="KTO FR" tvg-name="FR: KTO" tvg-logo="" group-title="Live: France",FR: KTO
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3777
+#EXTINF:-1 tvg-ID="LEquipe 21 FR" tvg-name="FR: L'equipe 21 HD" tvg-logo="" group-title="Live: France",FR: L'equipe 21 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1068
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LA CHAINE METEO HD" tvg-logo="" group-title="Live: France",FR: LA CHAINE METEO HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18666
+#EXTINF:-1 tvg-ID="Cine FX FR" tvg-name="FR: La Chaine Normande" tvg-logo="" group-title="Live: France",FR: La Chaine Normande
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12524
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: LCI HD" tvg-logo="" group-title="Live: France",FR: LCI HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/9112
+#EXTINF:-1 tvg-ID="LCP FR" tvg-name="FR: LCP HD" tvg-logo="" group-title="Live: France",FR: LCP HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3776
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Lucky Jack TV" tvg-logo="" group-title="Live: France",FR: Lucky Jack TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18650
+#EXTINF:-1 tvg-ID="M6 FR" tvg-name="FR: M6 HD" tvg-logo="[" group-title="Live: France",FR: M6 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/365
+#EXTINF:-1 tvg-ID="M6 Music FR" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="Live: France",FR: M6 MUSIC
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3775
+#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="Live: France",FR: MANGAS HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/341
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: MATELE TV HD" tvg-logo="" group-title="Live: France",FR: MATELE TV HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34925
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: MCM HD" tvg-logo="[" group-title="Live: France",FR: MCM HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/31445
+#EXTINF:-1 tvg-ID="MCM Top HD FR" tvg-name="FR: MCM POP" tvg-logo="" group-title="Live: France",FR: MCM POP
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12530
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MTV Hits" tvg-logo="[""]" group-title="Live: France",FR: MTV Hits
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3774
+#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="FR: NAT GEO HD" tvg-logo="" group-title="Live: France",FR: NAT GEO HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/336
+#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="FR: Nat Geo Wild HD" tvg-logo="[" group-title="Live: France",FR: Nat Geo Wild HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/9815
+#EXTINF:-1 tvg-ID="Nickelodeon FR" tvg-name="FR: NICKELODEON" tvg-logo="" group-title="Live: France",FR: NICKELODEON
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7712
+#EXTINF:-1 tvg-ID="Nickelodeon Junior FR" tvg-name="FR: NICKELODEON JR" tvg-logo="[""]" group-title="Live: France",FR: NICKELODEON JR
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/7713
+#EXTINF:-1 tvg-ID="NRJ 12 FR" tvg-name="FR: NRJ12 HD" tvg-logo="[""]" group-title="Live: France",FR: NRJ12 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/364
+#EXTINF:-1 tvg-ID="Numero 23 FR" tvg-name="FR: NUMERO 23 HD" tvg-logo="" group-title="Live: France",FR: NUMERO 23 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3762
+#EXTINF:-1 tvg-ID="OCS Choc FR" tvg-name="FR: OCS CHOC HD" tvg-logo="[" group-title="Live: France",FR: OCS CHOC HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3769
+#EXTINF:-1 tvg-ID="OCS City FR" tvg-name="FR: OCS CITY HD" tvg-logo="" group-title="Live: France",FR: OCS CITY HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2613
+#EXTINF:-1 tvg-ID="OCS Geants FR" tvg-name="FR: OCS GEANTS HD" tvg-logo="[" group-title="Live: France",FR: OCS GEANTS HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3768
+#EXTINF:-1 tvg-ID="OCS Max FR" tvg-name="FR: OCS MAX HD" tvg-logo="[" group-title="Live: France",FR: OCS MAX HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3767
+#EXTINF:-1 tvg-ID="OLTV FR" tvg-name="FR: OL TV" tvg-logo="" group-title="Live: France",FR: OL TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18645
+#EXTINF:-1 tvg-ID="OMtv FR" tvg-name="FR: RFM HD" tvg-logo="" group-title="Live: France",FR: RFM HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18678
+#EXTINF:-1 tvg-ID="One TV FR" tvg-name="FR: ONE TV" tvg-logo="" group-title="Live: France",FR: ONE TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18637
+#EXTINF:-1 tvg-ID="Paramount Channel FR" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="[" group-title="Live: France",FR: PARAMOUNT CHANNEL HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3770
+#EXTINF:-1 tvg-ID="Paris Premiere FR" tvg-name="FR: Paris Premiere HD" tvg-logo="" group-title="Live: France",FR: Paris Premiere HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1066
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: PIWI  HD" tvg-logo="[" group-title="Live: France",FR: PIWI  HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/339
+#EXTINF:-1 tvg-ID="PlanetePlus FR" tvg-name="FR: Planet HD" tvg-logo="[""]" group-title="Live: France",FR: Planet HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/10594
+#EXTINF:-1 tvg-ID="PlanetePlus Action and Experience FR" tvg-name="FR: Planete  A&E HD" tvg-logo="[""]" group-title="Live: France",FR: Planete  A&E HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/644
+#EXTINF:-1 tvg-ID="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR: PLANETE CI" tvg-logo="" group-title="Live: France",FR: PLANETE CI
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/353
+#EXTINF:-1 tvg-ID="RMC Decouverte FR" tvg-name="FR: RMC Decouverte" tvg-logo="" group-title="Live: France",FR: RMC Decouverte
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3766
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Rouge TV" tvg-logo="" group-title="Live: France",FR: Rouge TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18664
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: RT France HD" tvg-logo="" group-title="Live: France",FR: RT France HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34931
+#EXTINF:-1 tvg-ID="RTL 9 FR" tvg-name="FR: RTL9" tvg-logo="" group-title="Live: France",FR: RTL9
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2601
+#EXTINF:-1 tvg-ID="RTS Deux HD FR" tvg-name="FR: RTS DEUX HD" tvg-logo="[" group-title="Live: France",FR: RTS DEUX HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2767
+#EXTINF:-1 tvg-ID="RTS Un HD FR" tvg-name="FR: RTS UN HD" tvg-logo="[" group-title="Live: France",FR: RTS UN HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2768
+#EXTINF:-1 tvg-ID="Science and Vie TV FR" tvg-name="FR: Sciences & Vie TV" tvg-logo="[" group-title="Live: France",FR: Sciences & Vie TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/643
+#EXTINF:-1 tvg-ID="Seasons FR" tvg-name="FR: Season HD" tvg-logo="" group-title="Live: France",FR: Season HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3773
+#EXTINF:-1 tvg-ID="serieclub FR" tvg-name="FR: Serie Club HD" tvg-logo="[""]" group-title="Live: France",FR: Serie Club HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2605
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Sundance TV" tvg-logo="" group-title="Live: France",FR: Sundance TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18661
+#EXTINF:-1 tvg-ID="Syfy HD FR" tvg-name="FR: SYFY HD" tvg-logo="" group-title="Live: France",FR: SYFY HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3760
+#EXTINF:-1 tvg-ID="TCM Cinema FR" tvg-name="FR: TCM Cinema" tvg-logo="" group-title="Live: France",FR: TCM Cinema
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/12527
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Tebeo TV HD" tvg-logo="" group-title="Live: France",FR: Tebeo TV HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34933
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TeleGrenoble Isere" tvg-logo="" group-title="Live: France",FR: TeleGrenoble Isere
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18646
+#EXTINF:-1 tvg-ID="Teva FR" tvg-name="FR: Teva HD" tvg-logo="" group-title="Live: France",FR: Teva HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2602
+#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="FR: TF1 HD" tvg-logo="" group-title="Live: France",FR: TF1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/363
+#EXTINF:-1 tvg-ID="TF1 Series Film FR" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="Live: France",FR: TF1 SERIES FILMS HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/17300
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TFX" tvg-logo="" group-title="Live: France",FR: TFX
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/17301
+#EXTINF:-1 tvg-ID="TIJI FR" tvg-name="FR: TIJI" tvg-logo="" group-title="Live: France",FR: TIJI
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3765
+#EXTINF:-1 tvg-ID="TMC FR" tvg-name="FR: TMC" tvg-logo="" group-title="Live: France",FR: TMC
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2769
+#EXTINF:-1 tvg-ID="TMC FR" tvg-name="FR: TMC HD" tvg-logo="" group-title="Live: France",FR: TMC HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2606
+#EXTINF:-1 tvg-ID="Toute lhistoire FR" tvg-name="FR: Toute l Histoire HD" tvg-logo="[" group-title="Live: France",FR: Toute l Histoire HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2770
+#EXTINF:-1 tvg-ID="Trek FR" tvg-name="FR: Trek HD" tvg-logo="" group-title="Live: France",FR: Trek HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/1065
+#EXTINF:-1 tvg-ID="TV5MONDE FR" tvg-name="FR: TV 5 Monde HD" tvg-logo="[" group-title="Live: France",FR: TV 5 Monde HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/8256
+#EXTINF:-1 tvg-ID="Equidia Life HD FR" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="Live: France",FR: TV5 MONDE HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/3772
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TV78" tvg-logo="" group-title="Live: France",FR: TV78
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18665
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TV7 Colmar" tvg-logo="" group-title="Live: France",FR: TV7 Colmar
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18654
+#EXTINF:-1 tvg-ID="M6 Boutique FR" tvg-name="FR: TV8 MontBlanc HD" tvg-logo="" group-title="Live: France",FR: TV8 MontBlanc HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18651
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TVFIL78" tvg-logo="" group-title="Live: France",FR: TVFIL78
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34938
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TVM 3" tvg-logo="" group-title="Live: France",FR: TVM 3
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18635
+#EXTINF:-1 tvg-ID="" tvg-name="FR: L'equipe Live 1 HD" tvg-logo="" group-title="Live: France",FR: L'equipe Live 1 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34935
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TVR TV Rennes 35" tvg-logo="" group-title="Live: France",FR: TVR TV Rennes 35
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34924
+#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="FR: Ushuaia HD" tvg-logo="" group-title="Live: France",FR: Ushuaia HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/337
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: VIA Vosgues TV HD" tvg-logo="" group-title="Live: France",FR: VIA Vosgues TV HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34927
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: via Occitanie TV" tvg-logo="" group-title="Live: France",FR: via Occitanie TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/34934
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: VOSGUE TV" tvg-logo="" group-title="Live: France",FR: VOSGUE TV
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/18653
+#EXTINF:-1 tvg-ID="Voyage HD FR" tvg-name="FR: VICE HD" tvg-logo="" group-title="Live: France",FR: VICE HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/2771
+#EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9" tvg-logo="[" group-title="Live: France",FR: W9
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/9935
+#EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9 HD" tvg-logo="[" group-title="Live: France",FR: W9 HD
+http://livego.club:8080/sencK7CXwujp/dpDXmtkD4bU8/362
 
 
 #EXTINF:-1 tvg-country="FR" tvg-id="TV5" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",FR | TV5 Monde Europe FHD
